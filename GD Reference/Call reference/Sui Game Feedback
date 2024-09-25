@@ -1,0 +1,24 @@
+UI:
+- Its is a prototype UI, there are many ways to improve it, from the header that disappears on the NFTs page, to the ability to get in a battle without a card, the scrolling elements that are not obviously scrollable, or the stat indicator on what battle we are having being a button that can change the type of battle until a favorable one.
+
+- I won’t critique the UX right now to much as it is an early stage of development, but we can draw everything on literal physical paper and simulate all the game, to see what we can do to make it flow better, the game is purely driven by its UX, so this is a really important step. 
+
+EVERYTHING needs to be responsive, snappy and most of all, intuitive.
+
+Game:
+- The game is simple, for now you just choose the card with the best stat based on the stat indicator. I don’t know the final scope for the game, but I imagine it should be friendly to casual players, a NFT card game has so much potential, cards can be customized with stats or abilities. Evolved, equipped, fused. Imagine a card that permanently changes after being used, or something like fusing two cards in the middle of combat was not reverted at the end of the battle. So much potential!
+- The idea of choosing the card before the other player is a nice “rock paper scissors” style of turn battle keen to Pokemon, I love this idea. This should be explored more.
+- The game should be a CARD game, not a MONSTER COLLECTING game like pokemon (or we can make a monster game), but it should not call itself a card game and be a pokemon clone.
+o To make it into a card game we need to have mostly 2 features:
+▪ Random elements: Card games are mostly a dance between a good consistent strategy and high rolling your best combos or engines. The game needs to have a deck building aspect to it, even if it’s supposed to be simple. The game should have archetypes that balance between this dance in different ways, usually we have Tempo decks, Combo Decks and Agro Decks. (of course, this is not valid for every card game, but the game still needs to have archetypes).
+▪ Resource System: Most TCGs rely on a resource system, Mana for Magic the Gathering, 1 summon for Yu-Gi-Oh, mana rocks on Hearthstone, etc. Some games resources are the cards you draw on your hand, others have a different limit. The idea is limiting the usefulness of a high roll, even if the game is supposed to be casualfriendly, you can have a simple resource system by simply making a card be one-use-only on a battle, so a card with more good stats is great for a deck focusing on having a good average stats, but a card with one good stats is great when your deck relies a little more on luck.
+
+
+General Opinions:
+- Okay, the game idea is really good, I love Capybaras (I’m Brazilian, we have a lot of those haha), the funny aspect of the art style reminds me of a game called Munchkin, which can be a good inspiration for art style and humor on the cards.
+- A NFT game in today’s day and age comes with a set of assumptions, some good and some bad, and the game needs to highlight the good ones and address the bad ones the right way. NFT has potential to be great and a card game is a perfect genre to make the advantages of NFT shine.
+- The gameplay needs to be casual but also have some depth, to encourage an economy and trading of cards and to make the game interesting to a good and big audience. Marvel Snap comes to mind as a good example of a casual friendly game with depth.
+- In general, I Loved the idea, would love to work with the team to bring all my ideas to the table, help develop the game on both the technical engineer level and the design/gameplay aspect.
+
+
+Ending a text is hard :V

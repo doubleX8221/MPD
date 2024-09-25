@@ -1,0 +1,286 @@
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+Hi, I am an expert in C#, ASP.Net Core, ASP.NET Web API, jQuery, React, JavaScript, and Microsoft Web Development stack with more than 7 years of experience.
+
+Experience:
+I have more than 7 years of experience working over the Windows Azure & Microsoft Technology Stack: ASP.Net Core, ASP.Net MVC, React, C#.Net, MS SQL Server, MongoDB, JSON/XML, Web API, REST Services, ADO.Net, Database design, etc. I have worked on projects in multiple domains such as Finance, Supply Chain, E-commerce, etc. I have used EF, Dapper, etc. as ORM. Not only that, but I have also built my own Data Access Layer using reflection which is efficient, flexible, and maintainable. Therefore, I can work with any choice for DAL among these.
+
+Among the frontend framework and libraries, I am well versed in React, Redux, jQuery, JavaScript, Razor, HTML 5, CSS, Bootstrap, etc.
+
+I have vast experience working with AWS including EC2, S3 Bucket, AWS Code Deploy, Secrets Manager, etc.
+
+I always adhere to SOLID principles. Not only that, but I am well-versed in Dependency Injection and have used it in multiple projects. I am also well-versed in Test Driven Development (TDD).
+
+Commitment:
+I like to focus completely on one project at a time. I will be working as an individual on your project, even though I have also managed a team in the past.
+
+I think I am a good fit for this particular project because of the following points.
+
+1. Have expertise in the technologies that are required for this project. This enables me to deliver a high-quality application.
+2. Always give priority to my client's business and requirements.
+3. Very much committed to my deliverables
+4. Along with the deliverables, I always focus on the performance and maintainability of the code that I write
+
+“High Quality + Fast Speed + Full Time + Faithful Development” is my motto. Look forward to hearing from you soon.
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+Hi, I have over 8 Years of experience in Full Stack development, and I enjoy creating mobile apps and websites.
+
+My skills are listed below, but not limited to:
+ASP.NET, .NET, .NET Core, Angular.js, C#, MVC, CSS, HTML, JavaScript, jQuery, Bootstrap, SQL Server, Web API (RESTful & SOAP), Drupal, Laravel, React Native, Native, Django, Python, PHP, Node.js, WordPress, Shopify, Wix, Squarespace, Webflow, Flutter, and Ionic.
+
+Please see my sample work.
+Callondoc.com
+Zameen.com
+
+I am passionate about providing my clients with innovative design and development support. I offer personal service, putting our skills at your disposal to work with your requirements in your timeframe and on your budget, and aim to exceed your expectations with my outstanding and responsive service.
+
+Regards.
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+Hi, As a Sr. full stack Asp.Net Developer, having expertise in all the required technologies, I can definitely help you.
+
+I have DESIGNED, DEVELOPED & MAINTAINED a wide range of projects with a high level of my client's satisfaction. Hence, this project seems most appealing to me, and based on my experience, I assure you that I will FULFILL all your requirements with a satisfactory OUTCOME.
+
+Here are my skills and expertise.
+
+✓ .NET Core | C# | .NET MVC | Entity Framework | ASP.NET ZERO | REST | Web API 2.0 | WPF | WCF | PHP
+✓ MS-SQL | IIS | Azure | SQL Server | LINQ | MySQL | MongoDB | PostgreSQL | AWS | WebRTC | Visual Studio
+✓ AngularJS | ReactJS | JavaScript | Bootstrap | NodeJS | Vue.js | HTML5 | CSS3 | jQuery | GitHub | Razor | Telerik | SignalR
+✓ AJAX | XML | JSON | OAuth | REST API | Twilio API | MailChimp | Social media Integration | Payment gateway Integration.
+
+Also, please have a look at my work, which might help you to evaluate my capabilities for consideration.
+
+➳ Asp.Net Core / MVC Projects:
+✓ https://charityexcellence.co.uk
+✓ http://www.instaval.co/
+✓ http://www.coroflot.com/
+
+➳ .Net projects using Kendo UI:
+✓ https://www.homedirect.co.nz/
+✓ https://www.eurekagolf.co.uk/
+✓ https://localbooking.com/
+
+➳ Bootstrap Projects:
+✓ https://www.withings.com/in/en/
+✓ http://scappraiser.com/
+
+In addition to these websites, I have developed an ample number of websites for my clients which are equally unique and good but because of NDA with them, I cannot disclose all such.
+
+Please let me know if you require any additional details from my end. I will be happy to share it with you. Thank you.
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+Hi, I looked through the job details, and it matches my skills 100%.
+
+I am a full stack developer having extensive programming experience in the analysis, design, and development of windows and web applications in Microsoft Visual Studio .NET using ASP.NET, C#, ASP.Net Zero, MVC, Blazor, Agile CRM, ADO.NET, Google Ads API, Crystal Reports, MySQL, SQL Server, T-SQL, BigQuery PostgreSQL, MySQL, HTML, CSS, Telerik, Kendo UI, Custom Dashboard using Gantt chart, Fusion Charts, Chartist.js, Azure, AWS.
+
+I have recently worked on a Metronic theme using Angular 8, React.js, and .NET core as the backend.
+
+Here are the recent links where I have been involved as a front-end developer.
+✓ https://meetinkz.com/en
+✓ https://minelife.org/experts/hire-experts
+✓ Admin part of https://saboskirt.com/ (Using Angular)
+
+I have recently worked on a financial application built in .NET core, Dependency injections container, and Swagger API.
+The application consists of multiple subsystems, including several store's UI front end (a Web application and a native mobile app), along with the back-end microservices and containers for all the required server-side operations.
+
+The first one and the best of all is Saboskirt E-Commerce.
+
+1. https://saboskirt.com/
+
+Technology Stack:
+C#, ASP.Net, MVC, Web API, less, MSSQL, Entity Framework, N Hibernate, Team City, Octopus, Agile, Git flow, Bitbucket, ReactJS, Redux.
+✓ Responsible for implementing and maintaining Saboskirt e-commerce website and internal administration application.
+✓ Effectively identify, develop and manage its IT projects by implementing a repeatable and iterative Agile/Scrum process with participation from each division.
+✓ Involved in gathering requirements, estimation, and delivery of the project.
+✓ Maintained the build and deployment to the Production server using Team City and Octopus.
+
+Influencer:
+Influencers are Instagram model who collaborates with Saboskirt for Influencer marketing. Influencer marketing is a form of marketing in which the focus is placed on influential people rather than the target market. It identifies the individuals that have influence over potential customers and orients marketing activities around these influencers
+Designed and implemented an admin system to handle Influencer permission, products, Credits tier, and order.
+✓ Implemented Reporting for all Influencer orders, which makes the audit process easier.
+✓ Implemented Checkout cart and page with specific Influencer requirements.
+✓ Implemented recurring job using hang fire to refresh permission and lock for all Influencer accounts.
+
+2. Billpower - https://www.billpower.co/
+
+Billpower integrates directly with Xero, Myob, and QBO and enables you to charge your customers the amount owing on their invoices on the due date.
+
+Customers can then choose to pay manually with either a credit card or bank transfer. Or, they can store their credit card and pay automatically.
+
+Some features that will enable you to save time and money are:
+
+Personal payment page – You will receive a personal payment page co-branded with your company logo and details.
+
+Surcharges – Probably Billpower’s most popular feature, this allows you to absorb the credit card fees or pass them along to your customers.
+
+Deposits – Take partial payment for a draft invoice.
+
+Automatic Payments – These can be set up with either credit cards or bank transfers and allows you to store your customers’ payment details. Then, you can automatically charge them the amount owing based on an open invoice in their accounting software.
+
+Live invoice statements – When your customer tries to pay your invoice, they can view a list of all the other invoices owed to your business and pay them at the same time.
+
+Ecommerce – Billpower can help you take payments on your website or help you accept donations for your not-for-profit organization.
+
+Bookkeeper Portal – Accounting professionals can access added functionality on their accounts, enabling them to apply for and manage their client accounts from one centralized place.
+
+Attached sample code for your kind perusal.
+
+1. .Net API with EF and Code First
+https://drive.google.com/open?id=1HApveXJeZ3HHRrOOPwizN3_-zqCtW36f
+2. .Net web API with ADO.Net
+https://drive.google.com/file/d/1FBPIMenfESrGsfaTGin-xsxlUuBTga9M/view
+3. .Net Core API
+https://drive.google.com/open?id=1iiFSBPrdVhajg_GQa2VAY8EdJy9kdJbh
+
+If you are interested, feel free to start a conversation! I am willing to participate in conversations about my skills and how these skills translate into project requirements.
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+Hi, I carefully read your project post and want to make you an offer and some background, so you can check my work history.
+
+I am a Sr. full stack developer with hands-on 12+ years of experience developing web and mobile applications using C#, .NET Core, MVC, Telerik Kendo UI, and MSSQL and the ability to converse fluently in English. I would be delighted to design and develop your online business portal; and will make sure your website looks superior on any device or browser.
+
+* It's my felicity to inform you that I have all the required skills for this project and have recently worked on a project with similar requirements. Please review the details below. *
+
+Project Name - SpeedUP
+Project URL - http://speeduperp.com/intl
+Technologies Used - ASP.NET MVC, C#, .NET Framework, Angular JS, CRM, DNN, jQuery, Knockout JS, Kendo UI, Bootstrap.
+
+I would be happy to discuss your project needs and how I could help you meet them.
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+Hi, I am a Microsoft-certified Senior Full-stack developer with hands-on 12+ years of experience developing web and mobile applications using *C#, .NET Core, MVC, Telerik Kendo UI, and MSSQL* and the ability to converse fluently in English. I would be delighted to design and develop your online business portal; and will make sure your website looks superior on any device or browser.
+
+* It's my felicity to inform you that I have all the required skills for this project and have recently worked on a project with similar requirements. Please review the details below. *
+
+Project Name - SpeedUP
+Project URL - http://speeduperp.com/intl
+Technologies Used - ASP.NET MVC, C#, .NET Framework, Angular JS, CRM, DNN, jQuery, Knockout JS, Kendo UI, Bootstrap.
+Description - Speed UP ERP is a cloud and mobile-based business process automation system for service organizations
+Features Implemented:
+- Home-Page.
+- Contact-US Page.
+- Login-Page.
+- Business strategies function.
+- Social app integration-Instagram, Twitter, YouTube, Linked-In.
+- Google Map integration.
+
+* My SPECIALIZATIONS *
+
+Developed a plethora of business-level cross-browser compatible SaaS applications using Microsoft .NET Framework with C# and implemented Caching, Validation, Authentication, controllers, Model binding, AJAX, WCF, MSSQL, and integrated RESTful APIs i.e. third-party APIs into the applications e.g. Google Maps, etc. Expertise using Microsoft Visual Studio for all C# projects.
+
+Proficient in the use of JavaScript, HTML, CSS, and WordPress. Capable of building high-quality, scalable, and reusable components using JavaScript Framework Angular. Developed responsive user interface by using Telerik Kendo UI, jQuery, JavaScript, JSON, AJAX, and HTML5.
+
+* OTHER PROJECTS *
+These are some full-stack projects I have developed using .NET Framework with C#. Please review the details below, it will give you an idea of my work.
+
+1. Project Name - Blueberry CMS
+
+Project URL - https://www.blueberrycms.com/
+Technologies Used - C#, Asp.Net-zero. Dot Net Core, Dot Net Boilerplate, Telerik, JavaScript, HTML5, CSS3, jQuery 2.1.1, Google Font API, and Google Analytics.
+Description - Blueberry CMS provide a PaaS platform for web designers and marketing agencies for increasing their productivity by minimizing their expenses and maximizing return on investment for their clients.
+Features implemented:
+- Provide PaaS Facilities.
+- Sign-up page is developed on Landing Page.
+- reCAPTCHA verification is integrated with the site.
+- Simple subscription plan with button functionality is created and linked on the landing page.
+- Fade In animation is linked with some pages of this site.
+- This site provides a dual-mode designing facility with clients who can use the drag-and-drop option or client can edit code also.
+- Social media platforms are integrated into this site.
+- This site is hosted over Amazon hosting providers on an Nginx server.
+
+2. Project Name: Rebate Check
+
+Project URL - https://loginrebatechecks.com/
+Technologies Used: C#, MVC5, ASP.NET Core, MSSQL with Entity Framework, jQuery Data table, SQL Azure, HTML5, and Bootstrap.
+Description: Rebate Check is used by the auto-repair agency to maintain surveys and reports.
+The following points were implemented:
+- Converted MS access database to MSSQL.
+- VBA app to Asp.net core
+- Managed roles
+- Subscription Page
+- Bootstrap Responsive HTML
+- Dashboard Page
+- Campaign Page
+- Profile Page
+- Activity Logs
+- jQuery Data table for listing and paging.
+
+Hope the above-mentioned examples satisfy you, to take the discussion further.
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+Hi, I can surely assist you with your job as I have all the required expertise.
+
+I have understood your technical requirements. It will be great if you share some insight into the project. Technically, I have much experience and have worked on many challenging projects, so I can easily cope with your project and help you to reach its destination.
+
+I specialized in .Net core, ASP.Net Web Form, .Net MVC, VB .NET, C#, Angular 1.0 to 12.0, React, Blazor, Entity Framework, Web API, Visual Studio, jQuery, Web Services, ASP.NET Zero, ASP.NET Boilerplate.
+
+I have full-time availability and can start immediately after the determination of the SOW.
+
+Work Examples
+- https://buy.mazumamobile.com/ [E-Commerce store for mobile material using .NET, C#, ASP.NET MVC & SQL Server]
+- https://exocore.app [Manage construction-related work details. Stack: ASP.net Core, ASP.NET MVC, SQL Server]
+- https://dev.prevounce.com/ [Preventive medical solution, Stack: ASP.Net, Angular & MVC, SQL Server]
+
+Hope the above-mentioned information is informative for you.
+Thanks for your kind attention.
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+Hi, Your job posting has caught my attention.
+
+I'm a Full Stack .Net developer with 8+ years of experience in analysis, documenting, designing, testing, and implementing Object-Oriented Programming Concepts (OOPS), Service Oriented Architecture (SOA) based applications, client-server applications, N-tier applications, and Windows Services-based applications.
+
+>> My C# .Net Work:
+✓ https://www.sixleaf.com/ - Amazon product tool
+✓ https://www.externiture.com/ - Bus stop & Timetable tracking
+✓ https://www.fsresidential.com/ - Property management and consultation services
+✓ http://www.contractroom.com/ - Document management with file management, e-signature, and corporate negotiation
+✓ http://shipkee.com/ - Online shipment web portal to compare shipment rates with UPS, FedEx, and DHL.
+
+🔘 I have experience with designing Applications using UML and Use Cases and Design Patterns, Agile Methodologies with the Scrum process, and have good years of experience with TDD/DDD, REST, Dependency Injection / IOC, and Waterfall Development. I have Strong analytical, and problem-solving skills with good knowledge of OOPS Structure and Agile methodology.
+
+🔘 I have sound knowledge of Databases, especially writing, maintaining, and optimizing complex PostgreSQL, MS SQL, MongoDB, and MySQL queries, triggers, functions, and Database Design. Also, have 3+ years of experience administering and maintaining replicated SQL Server databases in a distributed production environment (reporting experience a plus)
+
+🔘 I follow the Web API approach in the development of large-scale applications where I have worked with Web API to expose data over HTTP following REST principles and am very much familiar with its features and components, including Attribute Routing, External Authentication, CORS, OWIN Self Hosting, IHttpActionResult, and Web API OData.
+
+Hope to have good cooperation and create many successful projects in the future. Sincerely.
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+Hi, I would be a perfect candidate for your team since I'm a full-stack developer with 10 years of experience.
+
+I possess a Degree in Computer Engineering with a focus on SPA/Angular/React/Node.js/Vuejs/ASP.NET/.Net5/microservices/Azure & docker tech. I do have experience with Gatsby as well and experience with CMSs such as WordPress and page builders as well as eCommerce platforms such as Shopify.
+
+Some of my technical skill-set includes the:
+
+- Development Skills: ASP.NET MVC, Net5, eCommerce, Open API, HTTPS, Dockers, Kafa, Microservices, ABP Framework, Orchard CMS,
+SaaS Based Application, Multi-tenant Application, Bootstrap Framework, JSON, jQuery, Vue.js, Angular11, React, Redux, .NET Framework, D3.js charts. Axios API, Fetch API, openreach.ai.
+CI/CD pipelines
+- Programming Languages: C#, TypeScript, JavaScript, NodeJS, Python, PHP
+- Databases Tools: Microsoft SQL Server, MongoDB, PostgreSQL, Cloud Computing
+- Web Servers: Apache HTTP Server, Microsoft IIS, Apache Tomcat
+
+You may take a glimpse of my previous work through the following links.
+
+- https://www.insideasiatours.com/ (Live link)
+- https://peacock-angular.web.app/#/home (Dev link)
+
+Hope to have good cooperation and create many successful projects in the nearest future. Sincerely.
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@

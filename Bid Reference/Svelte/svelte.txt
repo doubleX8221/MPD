@@ -1,0 +1,106 @@
+
+##########################################################################
+Open for a test job or a technical interview to prove my skills, if you like then only hire me.       
+       
+Hello There,       
+how're you?       
+       
+Thank you for the job post, I've read the job carefully and really keen to work with you.       
+       
+About my recent experince with -       
+# Sveltekit:       
+- In my last project I've combined Svelte's Preprocessing feature & PostCSS using Svelte- preprocess to handle Tailwind.       
+- In my project Tailwind was processed by PostCSS. - Also I've worked on a project where I've experience in Svelte+the Sapper framework as well as TailwindCSS.       
+       
+# Tailwind -       
+- In my project Tailwind was processed by PostCSS. - Also I've worked on a project where I've experience in Svelte+the Sapper framework as well as TailwindCSS.       
+- I've used tailwind CSS to create customized and responsive websites quickly. It's easy to work with tailwind and it is extendable and customizable which can fulfill every particular needs. We use (https://nerdcave.com/tailwind-cheat-sheet) site to quickly find out a tailwind class for our need and (https://tailwindcomponents.com/) for pre-designed components       
+       
+I'm really keen to work with you and would like to discuss the project in detail,       
+Availability: Immediate start / 40 hours per week.       
+       
+Best,       
+
+##########################################################################
+Hi there!     
+While seeing your job post, it really grabbed my attention instantly.     
+     
+I'm a Senior Full Stack developer with over 6 years of experience, working on vast variety of challenging projects and extremely confident in Frontend/Backend development.     
+Especially I am familiar with Svelte, SvelteKit and React.js, Redux, Typescript.     
+This is a company website that I built with SvelteKit when I was working on there as freelancer.     
+www.nuage.studio     
+     
+Please review my profile where you will find numerous 5-star review and raving client feedback.     
+I am very detail-oriented and will do whatever is necessary to get the job done.     
+If you choose me, you can be assured that you are getting top notch expertise in SvelteKit, as well as someone who will complete your job correctly and timely manner.     
+Also, as an individual, in-house developer, I can work in your time zone and commit full time work as well.     
+     
+Let's Jump on an initial chat, so that we can discuss your project in more detail.     
+Hope to hear from you soon.     
+     
+Best Regards     
+
+##########################################################################
+
+Hi there!        
+yeah I can work with svelte and its UI framework SvelteKit.        
+        
+professionally I am not a svelte developer, currently I am working with javascript and its framework React, but I can surely        
+build an optimized version of your website in svelte.        
+Because its framework of javascript and its similar to reactjs, thatswhy I have too just learn some new rules and syntax of        
+svelte, it won't take more than few hours to learn rules.        
+        
+I have been working as a web developer for four years and I builds fully responsive,optimized and functional websites for        
+individuals, brands and agencies.        
+        
+Kindly have a look at my portfolio website, if you are willing to check my recent projects.        
+https://humayou.netlify.app        
+        
+        
+Lets have a zoom meeting, if you are seeking for someone like me.        
+        
+Best Regards,        
+##########################################################################
+Dear.       
+       
+I am an experienced JavaScript/Typescript developer & AWS certified engineer highly experienced with Vanilla JavaScript, Sveltekit, React, Nextjs, Node.js, Express.js , GraphQL, and PostgreSQL well versed with AWS, Git, Docker, Kubernetes, OOP, Database designing.       
+       
+https://svelte.dev/blog/sveltekit-beta       
+https://avc-offers.vercel.app/ [built with SveleKit, Bulma]       
+This is an e-commerce solution for customer who is willing to buy a car. They can compare, custom quotations etc. Here we use SvelteKit for the SSR and using Bulma CSS framework.       
+       
+Recently built a personal portfolio website for my one customer, built with SvelteKit, Tailwind and deployed it on Vercel       
+       
+I am very familiar with React, Redux, Next.js, React Hooks, Router, Suspense, Storybook, ContextAPI for frontend and Node.js, Expressjs, Nest.js, Fastify, GraphQL, Socket.io for Backend development.       
+       
+Technologies       
+- Front-end Development (React, Gatsby, Nextjs (SSR), Redux, React query, Storybook, ContextAPI, TailwindCSS, Bootstrap (v4, v5), Jquery, SvelteKit )       
+- Back-end Development ( NodeJS, ExpressJS, Fastify, Strapi, KeystonJS, Sanity.io, GraphQL, MongoDB, PostgreSQL, RESTAPIs )       
+- Server Architect (AWS, S3/EC2 instances, ElasticBeanstalk, Amplify, Appsync, Cognito, DynamoDB, AWS Lambda, Kubernetes, Digital Ocean, Firebase)       
+- 3rd Party Services (Google APIs, Twitter, Facebook, Paychex, Quickbooks, Mapbox, Canvas, Calendar, Stripe)       
+       
+Linkedin ( Github ) profile : linkedin.com/in/foxeverest       
+       
+I find its very important to understand the business model of whom I am working with to better help them program their functions that fit their needs.       
+Currently I have some part time jobs now and am able to start working on your project immediately & dedicate 30+ hours a week.       
+I am eager to discuss more detail with you soon.       
+       
+Regards       
+       
+
+##########################################################################
+
+Hello, I know Svelte& SvelteKit.        
+They are kind of JS framework for Single page application like React and Vue        
+I am an indiviual Full Stack developer with 5 years experience and fluent English Speaking skill.        
+I have fully read your requirement and your job posting is interesting to me.        
+More 40 hours/week can be spent for this project.        
+My skills are Svelte, SvelteKit, React.js, Redux, Vue2, Vue3, PHP,Stripe & Paypal Integration, Node.js, D3.js, Chart, MariaDB.HTML,CSS,Javascript,JQuery, ,BootStrap5,Git, Trello        
+I have developed over 60+ websites.        
+I have some question for your project and let's discuss via chat        
+Please check the below urls of my revious jobs.        
+https://www.kaufland.de        
+https://speedhome.com        
+https://www.johnfowlerholidays.com        
+Regards,        
+##########################################################################

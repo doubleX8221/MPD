@@ -1,0 +1,13 @@
+As a software engineer, my approach to testing and improving QA involves several best practices that I have found to be successful. 
+
+1. Test early and often: I believe in catching defects early in the development lifecycle, so I emphasize testing as soon as possible after code is written. This includes unit tests, integration tests, and end-to-end tests.
+
+2. Use a variety of testing methods: While automated testing is important, I also believe in the value of manual testing, exploratory testing, and crowdtesting to identify defects that might be missed by automated tests.
+
+3. Plan properly to avoid wasting time: I believe in planning properly to set testing expectations, so that time isn't wasted on unnecessary testing. I emphasize risk-based testing, prioritization of features, and planning the types of test activities to be employed.
+
+4. Involve QA as early as possible: I believe in the importance of involving QA as early as possible in the development cycle. This includes having QA review requirements, participate in daily stand-up meetings, and work with developers on test planning.
+
+5. Continuously improve my methods and tooling: I continuously look for new and better ways to perform testing by experimenting with new methods, techniques, and tools, and conducting regular reviews and assessments of my own process.
+
+Overall, my approach is focused on being proactive in identifying defects early, employing various testing methods to identify more defects, and continuously improving my testing methods and process.-Test eart

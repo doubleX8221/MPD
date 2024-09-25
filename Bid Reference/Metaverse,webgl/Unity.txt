@@ -1,0 +1,298 @@
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+Hi, With over 5 years of Unity 3D experience for global businesses, I offer the technical expertise you might be looking for. I highly value quality over quantity, and I put a big effort to create a truly qualified product. I love pixel-perfectness, and responsiveness, and enjoy writing tests.
+
+Please review my expertise, which provides details for such projects and examples of skills.
+
+✓ Game development using Unity, C# Programming
+✓ Unreal Engine, Blueprint
+✓ Translation of wireframes and rapid prototyping tools to accurate, working code.
+✓ Server Backend Programming using PUN2
+✓ AR/VR game by Oculus Quest.
+✓ Write and execute unit tests to improve and maintain code quality.
+
+If you are interested, feel free to start a conversation! I am willing to participate in conversations about my skills and how these skills translate into project requirements.
+
+Thank you for your time.
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+Hi, I'm a full-cycle game engineer, developing on the Unity engine, so can develop a game of any complexity and any genre to satisfy all your needs and desires.
+
+You can not worry about your project, I'm always in touch ready to help and answer, you will feel part of the team as you will be involved in the development process with me, and you will not have questions about what happens to the project or at what stage it is you will get regular reports on Milestone, and at any time you can ask a question, and I'll be happy to answer it. 
+
+Cooperating with us, you will not regret it, I appreciate my work and always work to the best of my ability, and you can see this for yourself! Your project will be implemented precisely and on time, quickly, and accurately!
+
+✓  I have an extensive stack of specialists. I have passed the testing of my programming skills and technical interview, thus confirming my identification during verification. Also, if needed I'm ready to help you with the design, and layout of your site. ✓
+
+“High Quality + Fast Speed + Full Time + Faithful Development” is my motto. Look forward to hearing from you soon.
+
+Thank you for your time.
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+Hi, I'm an experienced Unity 3D developer with a lot of knowledge about basic concepts such as C#, OpenGL, OpenCV, animation, graphics, and so on.
+
+As a passionate and creative developer, I strive to understand and implement customer requirements with clear communication skills and have grown my game development career by joining several Unity game development teams before coming freelance.
+
+Also, some experience with XR during Unity app development will help take this project into the real virtual world.
+
+“High Quality + Fast Speed + Full Time + Faithful Development” is my motto. I look forward to hearing from you soon.
+
+Thank you for your time.
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+Hi, With over 5 years of experience as a Unity Game developer, I've proven my mettle in 2D/3D games in the industry using Unity and Unity3D software to develop online multiplayer with photon proficiency including hyper-casual games, Pixel game, Arcade, Action game, turn-based games, MMORPGs, and Blockchain games.
+
+Additionally, I have knowledge of modern & agile web development and tools such as source control (Git), etc.
+
+I look forward to working with you sincerely.
+Thank you for your time.
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+Hi, I read the correct requirement and have a full passion to work on your project asap.
+
+I'd been focusing on multiplayer online Unity game development for over 7 years before coming to Upwork and had controlled many sync problems that often occurred in multiplayer game development using the Photon multiplayer game engine. Especially, I know the ins and outs of the SDK of the Photon fusion.
+
+I look forward to working with you soon, sincerely.
+
+Thank you for your time.
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+Hi, I read the game logic enjoyable and have a strong passion to work on your game project now.
+
+This is a senior Unity game developer as you can see in my profile and work history, and I know ins and outs of Unity 3D including procedural animation, turnaround, level-up, UI/UX design, animator, and so on.
+
+I'm willing to share my previous Unity project or take a trial project and technical interviews to prove my skills.
+
+I look forward to working on your project sincerely.
+Regards,
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+Hi, I want to make you an offer and some background, so you can check my work history.
+
+I'm a passionate, dedicated, and hardworking Game Developer with 6+ years of experience in building Mobile, Browser, and Social Games and 10+ years of total experience in Software Development. Not only that, but I worked for several leading game development studios, where I built and improved my expertise.
+
+I provide:
+- Game Development with Unity3D & C#
+- Backend for Games with .NET, NodeJS, Photon, Firebase
+- APIs & Plugins Integration (Facebook, Google Play, Firebase, AdMob, and many more)
+- Machine Learning for Games (Unity ML-Agents, TensorFlow)
+- Game Analytics & A/B Testing
+- Version Control with Git, SVN, and Unity Collaborate
+
+To remove all your doubts about my credibility, I suggest discussing your project face-to-face. I’ll be glad to explain how I can achieve your goals. Thank you for your time.
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+Hi, I have over 5 years of experience in iOS/Android Unity Game Development and great skill in Object-Oriented Programming and MVC Architecture so that we can make projects that would have the ability to upgrade as well as we can add more and more functionalities in the future. In addition, I have great experience in Native iOS and Android development, so I can figure out hidden problems very easily. I provide my best on every single line of code and work. I never compromise Quality and Client satisfaction. Not only that, but I will be available anytime when needed. I have strong experience in games reskin, I hope you will be happy to work with me.
+
+Here are the projects I have worked on.
+
+- "YiHa" is a social networking App. That is similar to the Yik Yak App with additional features like sharing images and videos anonymously within a specific area, chatting module is also integrated to chat with people anonymously.
+
+- "Cityline" is a big Real Estate system that provides 3d virtual tours of Apartments to its users. Also, users can manipulate furniture and design the apartment to see how it will look. The backend of the system is synced with the List hub to get the latest feeds of the listings.
+Also, a broker can upload his own listing to the system. The system is integrated with powerful backend API written in NodeJS and google cloud services. And World maps in Unity are used to manipulate the listings and heat maps for trends. Specialize in these technologies.
+
+Here is the list of the games I developed.
+- Sniper 3d shooting game.
+- Car crash Beam drive
+- Mother life simulator 3d.
+- Scary Jason Horror escape game.
+
+I am 100% responsive, you can ever contact me and I will be there for communication any time, and always respect my client and their projects, so you never find any behavior problems with me, am very flexible with clients' terms and conditions always.
+
+Hope you provide me with details about the project as soon as possible so that we can give you a more detailed view of the services that I provide.
+
+Thank you for your time.
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+Hi, I have over 5 years of experience as a senior Unity Game developer. When I work for a company, My focus is on Unity, AR/VR, Metaverse P2E crypto game, Game AI & Physics, Pixel Game, HTML5 PlayCanvas WebGL, Cocos2D(Box2D, Tilemap), Game Design/development workflows.
+
+✓ My Programming Languages
+HTML5, PlayCanvas, WebGL, three.js, JavaScript / Unity Script, C#/C++, Objective-C, Python, Java, Swift
+
+✓ Main Skills
+- Game Mechanics and Game-Play
+- Game Design Document (GDD)
+- 2d & 3d Game, Pixel Game Programming
+- Designing Game GUI
+- 3rd party tools such as Unity3d, blueprint
+- Ability to work as a team member and also lead one
+- Excellent Interpersonal communication skills, outstanding problem-solving, and decision-making skills.
+
+Hope you share more details with me so that I can better understand your concept and see how I can help you.
+
+Thank you for your time.
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+Hi, I'm a Sr. Game developer, who has extensive knowledge and 6+ years of experience in Unity, C# for game development
+
+I have experience in making games in 2D, 2.5D, and 3D for mobile and PC platforms. My genres for games range from shooting, platformer, action, adventure, racing, simulation, hyper-casual, fantasy, puzzle, and a lot of other experimental.
+
+I have a strong understanding of my skill, and I am great at problem-solving and adapting to needs. I can work from scratch as well as on existing projects.
+
+Please let me know if you require any additional details from my end. I will be happy to share it with you. Thank you for your time.
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+Hi, I have been developing games for over 5 years, achieving a range of experiences, including delivering for a number of platforms (console, PC, VR, Mobile & Web), concepts projects with different monetization formats (Premium, F2P, P2E), and delivering art assets in 2d and 3d AAA quality.
+
+Here you can see a bit of my work. (I can show more under NDA)
+
+- ArtStation
+https://www.artstation.com/mainleaf
+
+- YouTube
+https://www.youtube.com/channel/UCA4QcA5B_em-t_2tpEloHWw/videos
+
+- Demo Reel (Outdated)
+https://www.youtube.com/watch?v=qYgxxa3NP1c
+
+- VR/AR Demo Reel
+https://www.youtube.com/watch?v=JjFr2V7qd2M
+
+Here are a few links to projects I've worked on that you might find interesting.
+
+- Beach Head 2020
+https://www.youtube.com/watch?v=R8wB1n5P_3c (Programming and VR only, not the art)
+https://www.beachhead.com/
+https://www.beachhead.com/about/the-team
+
+- Enduvo
+https://enduvo.com/
+
+- The Sustainable City
+https://www.youtube.com/watch?v=CSaVqfVNBYk
+
+- My Little Monster - Make it Real
+Unfortunately, it was removed from stores by the client.
+https://www.youtube.com/watch?v=x5pYNBB4kmw
+https://www.facebook.com/Monstermatic/
+
+- Army Antz
+https://www.youtube.com/watch?v=JHAV5DBZ2Dg
+
+- Play Kids TV
+https://itunes.apple.com/us/app/playkids-learn-through-play/id613398383?mt=8
+https://play.google.com/store/apps/details?id=com.movile.playkids&hl=pt_PT
+https://www.youtube.com/watch?v=HIdWHRRZZ5Q
+
+I look forward to talking more about your job and discussing the details. Based on my experience and knowledge, I'd be a great asset to you and your team and play a key role in building your app successfully. I look forward to your early reply.
+
+Thank you for your time.
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+Hi, I am a Highly motivated and passionate Unity developer specializing in creating games in all kinds of genres with 7+ years of experience. I have all the relevant skills and am ready to craft a game in Unity for you.
+
+Please have a look at some previous Game projects.
+- Papaya Gaming - Unity solitaire and bubble shooter 2D games.
+https://www.papayagaming.com/
+
+- DOMI Online - 3D Blockchain MMORPG Underpinned by NFTs.
+https://domionline.io/
+
+- The Universim - Jump straight into managing your own planets as you guide a civilization through the ages. Build the ultimate empire in The Universim.
+https://store.steampowered.com/app/352720/The_Universim/
+
+- Leave Me Alone: A Trip To Hell - Skate. Fight. Fight with Skate.
+https://store.steampowered.com/app/444520/Leave_Me_Alone_A_Trip_To_Hell/
+
+- Pizza City Driver - Game with an open world, with beautiful and bright pixel graphics, beautiful music and sound effects, and dynamic and addictive gameplay.
+https://play.google.com/store/apps/details?id=com.phg.pizzadriver
+
+- Remind of Empty - Adventure game. Kind of a remix based on the original game in 2006 “You Are Empty”. Modified gameplay and advanced visualization will allow for a new look and feel of the atmosphere of an alternative history of the Soviet town of the last century.
+https://steamcommunity.com/sharedfiles/filedetails/?id=530771966
+
+- Mutant Football League - Mutants and monsters unleash maniacal carnage on the gridiron in this crazy gore fest of arcade-style football. Packed full of humor, intense online multiplayer action, and strategy.
+https://store.steampowered.com/app/529520/Mutant_Football_League/
+
+- The Despair (Survival) - You are on the island only with a pistol. Kill zombies. Let's do what you stand for.
+https://play.google.com/store/apps/details?id=com.UniqueGames
+
+If you are interested, feel free to start a conversation! I am willing to participate in conversations about my skills and how these skills translate into project requirements.
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+%8thWall
+
+Hi, I have 8+ years of experience working on AR/VR development, AR Games, and WebAR as well as using 8thWall, and have developed several augmented reality projects using 8thWall & other AR tools in the past.
+
+I have gone through the job posting again and based on the requirements, I have the right skills and experience required to work on the job successfully.
+
+I will definitely help you in developing an AR game using 8thWall as a senior Unity and Unreal Engine, AR/VR developer, UI UX designer, and 3D artist with 8+ years of experience across industries in AR/VR, Unity3D, Unreal Engine, and Gaming.
+
+Generally, I have expertise in using AR tools such as ARkit, ARcore, Wikitude, Vuforia, Swift, and 8thWall and in languages such as C++, C# & more.
+
+Happy to connect with you to learn more and take it further.
+
+Please find some projects I joined:
+
+- AR Games (Katcha):
+https://drive.google.com/file/d/1uf0t9k3nGLg2ojrZh-IhYOVPeOFlo4fw/view?usp=sharing
+
+- AR trailer:
+https://drive.google.com/file/d/1dZA1QmANBmGNE_gSuINGoN9wMJM96tqP/view?usp=sharing
+
+- Furniture Demo:
+https://drive.google.com/file/d/1HQoSgPAYCyqWH40zi9CKPQ3lcCo-Kquu/view?usp=sharing
+
+- Fire Training:
+https://drive.google.com/file/d/1Qkz2G9HBi9LfuMhm_qHDytjrxgAr3fR8/view?usp=sharing
+
+- Interactive Prints:
+https://drive.google.com/file/d/17pLTb2TqDCbkPkkkepvjdXxg3w_UR98f/view?usp=sharing
+
+- Door Visualizer:
+https://drive.google.com/file/d/1z1lrvaqdiVCYZgakFV_Qt2BOZUjfRthH/view?usp=sharing
+
+- AR Walkthrough book:
+https://drive.google.com/file/d/1iSJ7WhKaerpNF-f0FPu2s35foNA3Iy8k/view?usp=sharing
+
+- AR Solution for Real Estate Industry:
+https://drive.google.com/file/d/1yGNcdngDKAmChEoYI8UdeRSHt0MpsA3t/view?usp=sharing
+
+- AR children's book for RainbowME Kids:
+https://drive.google.com/file/d/1aaVVXqZTB8cVnGAhbr2iCGI-iI2uzoqA/view?usp=sharing
+
+- AR DEMO BOOK:
+https://drive.google.com/file/d/1aFX0zXz0BTWEzKBekHP4FVnjs2p5o9mb/view?usp=sharing
+
+Looking forward to the detailed documentation.
+
+Thank you for your time.
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+%AAA %MMORPG
+
+Hi, I developed over 20 high-end games in Unity and Unreal Engine for worldwide clients, giving them always more than needed. And I have complete infrastructure and expertise.
+
+Here is one of our AAA games published on Steam: https://store.steampowered.com/app/661290/Arizona_Derby/
+Here is an overview of my published games: https://play.google.com/store/apps/dev?id=6126510613328111326
+
+More of my apps: https://play.google.com/store/apps/developer?id=Falcon+Int.+Apps
+I'm in the game development industry for over 10 years. I developed all kinds of game genres, from MMORPG, strategy games, racing, arcades, actions, shooters, platformers, very complex casinos, slots, and others.
+
+I have an entire infrastructure and expertise in the video game industry, with expertise in all fields of game development.
+
+Look forward to working with you in the nearest future.
+Thank you for your time.
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@

@@ -1,0 +1,33 @@
+Hi, there.
+I have read your job carefully and can complete your job with no problem.
+
+About Me:
+
+I specialize in interactive and configurable WebGL apps. I mainly use advanced
+WebGL libraries like ThreeJs.
+
+I can also implement server-side rendering using puppeteer. 
+
+Portfolio:
+
+I am the sole developer of all the apps listed here.
+
+3D shed Designer app: https://youtu.be/eaiVPsXLUvg
+
+All the geometry and uvs are generated from code. The app generates modular geometries and then assembles them like a lego house. This enables highly dynamic interaction but is harder on the developer side as there is a lot of mathematics involved.
+
+Sun Azimuth, altitude controller on a 3D Google Map https://youtu.be/FnCTCKr9UzE
+
+Solar panel annual Yield estimator: https://youtu.be/vsdt_wr0bzo
+
+users model their roofs on Google Maps and then the app places 3d solar panels on their roofs. Users can control the direction and intensity of the sun to get an annual yield from the solar panels
+
+I also have metaverse projects under development. I am willing to share them during interview
+
+Skills: React, Three,js, Type Script, node.js, express, webpack, babel, physics engines, AWS
+
+New Skills: Ethereum, blockchain, solidity, docker, Kubernetes
+
+If you are interested, please message me
+
+Thank you

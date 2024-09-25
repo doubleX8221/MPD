@@ -1,0 +1,146 @@
+Here’s a structured introduction and interview content for a 15-minute meeting to hire a blockchain developer:
+
+---
+
+### Introduction (3-4 minutes)
+
+Company Overview:
+"Hello, thank you for taking the time to meet with us today! We’re [Company Name], a blockchain-focused gaming company. One of our key projects is a Blockchain Card Battle game built on the Sui chain and using the MERN stack. We’re currently expanding and looking for a skilled blockchain developer to help upgrade this game, adding new features and making it accessible to a wider audience."
+So main lead Milan he lead this project with you and another guy, you have to follow his instrunction and report daily work status to him/
+
+our company provide some benefits:
+like English class every week, workshops, and birthday when you are birthday you will have free. 
+Flexible Friday.
+
+Briefly Explain the Project:
+"The task involves upgrading our current UI, integrating a web3 modal for connecting multiple wallets, implementing a new NFT and our custom token, and expanding the game with additional features, such as adding new game modes like roulette. We’re excited about this phase and are looking for a developer to work closely with our team."
+
+---
+
+### Interview Questions (10-12 minutes)
+
+1. Background and Experience:
+   - Can you start by telling us a little about your background in blockchain development?
+   - Have you worked with Sui chain or any similar chains before?
+   - Could you share your experience working with MERN stack in blockchain or game development?
+
+
+2. Relevant Project Experience:
+   - Have you been involved in any NFT or Web3 gaming projects? If so, could you walk us through one of your favorite projects, what you contributed, and the challenges you faced?
+   - Are you comfortable with wallet integration and managing multiple wallet connections in blockchain games?
+
+3. Skills & Problem Solving:
+   - How do you approach debugging complex issues in the front-end or in game logic? 
+   - Can you describe your experience in developing custom tokens or NFTs for blockchain platforms?
+
+4. Availability:
+   - What is your current availability for full-time work, and do you have any other ongoing commitments?
+   - Are you open to working remotely full-time with flexible hours?
+
+5. Personal and Teamwork Questions:
+   - How do you typically handle tight deadlines and high-pressure situations in development?
+   - What do you enjoy most about working in the blockchain space, especially in game development?
+   - Are you comfortable collaborating with a remote, cross-functional team?
+
+### **1. General Knowledge**
+- Can you explain what a smart contract is and how it functions within a blockchain network?
+- What are the major differences between smart contract platforms like Ethereum and Sui (or any other chain you use)?
+- What is the difference between an ERC-20 and an ERC-721 token?
+
+### **2. Smart Contract Development**
+- Can you walk us through the process of developing and deploying a smart contract on [Sui, Ethereum, or preferred chain]?
+- Have you worked with smart contract development frameworks like Hardhat, Truffle, or Move (for Sui)?
+- How do you ensure gas optimization in smart contracts?
+  
+### **3. Security & Best Practices**
+- What are the most common vulnerabilities in smart contracts, and how would you prevent them (e.g., reentrancy attacks, integer overflow)?
+- Can you explain how you would implement access control in a smart contract?
+- How do you manage the upgradeability of a smart contract?
+
+### **4. Testing & Auditing**
+- What testing frameworks do you use for smart contract development?
+- How would you go about auditing a smart contract for security vulnerabilities?
+- Have you worked with any third-party smart contract auditors? If so, how was the experience?
+
+### **5. Token Implementation**
+- Can you describe the process of implementing a custom ERC-20 or ERC-721 token?
+- How would you handle minting, burning, and transferring tokens within a smart contract?
+- What steps would you take to integrate tokenomics into a smart contract (e.g., staking, rewards)?
+
+### **6. Integration with DApps**
+- How do you integrate smart contracts with frontend applications like a Web3 marketplace or a card battle game?
+- Have you worked with Web3.js or Ethers.js? If yes, can you explain how you would connect a smart contract with a wallet like MetaMask or Phantom?
+
+### **7. Real-World Problem Solving**
+- We plan to introduce a native token for our blockchain game. How would you go about creating and integrating this token with our existing ecosystem?
+- Our game needs to support multiple wallets. How would you implement this in the smart contract and frontend interaction?
+  
+### **8. Performance & Optimization**
+- How do you ensure scalability when designing smart contracts for high-traffic DApps like NFT marketplaces or games?
+- What are your strategies for optimizing gas fees, and what trade-offs do you consider?
+
+### **9. Sui Chain (Specific if Applicable)**
+- Have you worked with Move programming language used on the Sui blockchain? Can you explain some key differences between Solidity and Move?
+- How would you design and develop a smart contract to handle NFT minting and transferring on the Sui chain?
+
+### **10. Experience and Problem-Solving**
+- Can you describe a challenging issue you’ve faced in smart contract development and how you solved it?
+- What smart contracts have you developed in the past, and what were some of the key learnings from those projects?
+
+---
+
+### Wrap-Up (1 minute)
+
+"Thanks for sharing all of that! We’ll review the details and get back to you soon. If you have any questions about the role or the company, feel free to ask now or reach out afterward."
+
+Ok, thanks for sharing your background and experience. We will verify your details and get back to you soon. The next step is the technical interview. Before that, you need to take a short coding test.
+Let me know your github username so I can add you to our repository.
+
+Good, clone that project and execute it on your locally. I have to check what our project is working on your local properly.
+After this meeting I have to report it to our team what you are ready for coding test on our project,
+
+---
+
+Since you want the test assessment to be based on your ongoing **Blockchain Card Battle game** project, here’s a tailored test task that fits within your current needs:
+
+---
+
+### **Blockchain Developer Test Assessment**
+
+**Objective:**
+Assess the candidate’s ability to contribute directly to your ongoing **Blockchain Card Battle game** project by working on specific tasks related to UI upgrade, wallet integration, and smart contracts.
+
+**Task:**
+1. **UI Enhancement**:
+   - **Upgrade a specific UI component** in the existing game interface. For example, improve the design and responsiveness of the **game card layout** or **battle arena**.
+   - Ensure the UI is clean, functional, and consistent with the existing style. Focus on **responsiveness** across different devices.
+
+2. **Web3 Wallet Integration**:
+   - Integrate a **web3 modal** into the game to connect multiple wallets (e.g., MetaMask, Sui Wallet).
+   - Ensure the modal supports wallet switching and updates the user's connection status in real-time on the UI.
+   - Provide feedback when a wallet is connected or disconnected.
+   - Push the result to 'staging' branch
+
+3. **Smart Contract Interaction**:
+   - Using the existing **Sui chain**, create or modify a **smart contract** that allows the user to **mint an NFT**. The NFT could represent a game card or other in-game asset.
+   - Ensure the game reflects the minted NFT in the player's inventory after minting.
+   
+4. **Token Implementation (Bonus)**:
+   - (Optional) Integrate functionality where the player can receive a set number of tokens (your custom token) when they connect their wallet. Display the updated token balance in their account dashboard.
+
+**Requirements**:
+- The task should be implemented in the existing **MERN stack** setup with integration to the **Sui blockchain**.
+- Use the provided **GitHub repository** for version control and collaboration.
+- Document any code changes clearly in a README.md file with instructions on how to test the updated game features.
+
+**Duration**:
+- The task should take **4-6 hours** to complete.
+
+---
+
+### **Next Steps (Technical Interview)**:
+1. **Code Review**: Have the candidate walk through the changes they made to the project, explaining the logic behind their choices.
+2. **Test the Integration**: Ask them to demo the updated game, showing wallet connections, NFT minting, and the UI upgrades.
+3. **Debugging Questions**: If they encountered issues, ask how they resolved them and what improvements they would suggest for the project going forward.
+
+This approach will test their ability to jump into your existing codebase, understand the project’s architecture, and contribute to real features you're planning to implement.

@@ -1,0 +1,679 @@
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+I'm an experienced React Native developer with a passion for mobile app development, strong problem-solving skills, and an ability to quickly learn new technologies. I am eager to join a team of talented developers and help build world-class mobile apps.
+
+Before coming to Upwork, I developed and maintained React Native components, screens, and features for the mobile app using TDD practices, and collaborated with other developers to implement new features in a way that is consistent with existing codebase conventions. In the meantime, I participated in design discussions regarding application architecture, feature implementation, or any other relevant topic as required.
+
+Speaking in more detail, I developed a front-end user interface using React Native and JavaScript for iOS and Android mobile applications and utilized React Native debugging tools such as Reactotron and Remote JS to identify and fix bugs.
+
+I'm sure my technical skills and experience will be helped to this project. Waiting for your reply and detailed discussion.
+Thank you.
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+Hi, I can surely assist you with your job as I have all the required expertise as a full stack software developer proficient in React Native, React, Redux, & JavaScript and passionate about creating clean, maintainable code and streamlined user experiences. My role also includes architect, building, maintaining, and testing OOP web and mobile features leveraging Salesforce, including Apex, Lightning Web Components, and Lighting App Builder.
+
+Hence, I am an adaptable problem solver who leverages my technical skills to help my team purposefully tackle challenges and support its community.
+
+I look forward to working with you in the nearest future.
+Regards,
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+Hi, I am a Sr. React Native developer with a demonstrated history of publishing successful mobile applications.
+
+My over 5 years of experience as a Mobile Developer for global startups include React Native, Swift, Objective-C, Cocoa Touch, Node.js, AWS, Firebase, JSON web services, SQLite database, and Core Data database skills as well as my knowledge.
+
+I look forward to talking more about your job and discussing the details. Based on my experience and knowledge, I'd be a great asset to you and your team and play a key role in building your app successfully.
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+Hi, As a Sr mobile developer, I worked on converting the website to a mobile version, designing the mobile front pages, and serverless features with GCF, transforming native to hybrid, implementing MVC, MVVM, and Bloc, integrating 3rd party login, and notifications.
+
+I have rich experience in the nav-based, tab-based interface, dynamic loading, deep linking, Web Socket, rest API integration, Mapbox, offline storage, user tracking, authentication, payment processing, push notification, and submission.
+
+My main stacks are React Native, Ionic, Cordova, Flutter, ReactJS, SCSS, TypeScript, Redux, Babel, NodeJS, GraphQL, PostgreSQL, MongoDB, Realm, Jest, AWS S3, GCF, etc.
+
+Recently I designed an Instagram-like social application that allows users to live to vote, upload media, and public opinion gathering, transform native to hybrid, integrate SSO, and notifications, and bump the React Native version to up-to-date(v0.68), and re-vamping all front pages.
+
+I am passionate about designing, architecting, and building scalable solutions, and that always comes across in the quality of my work.
+
+If you feel that I could help you, I will offer you the best price and service. You will get all the expected and perfect stuff like great professional service, and I get a bit more exposure. If the above offer sounds like something you would be interested in, I'd love to hear from you. Thank you for your time.
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+Hi, I carefully read your project post and want to make you an offer and some background so that you can check my work history.
+
+I am a software engineer focused on full-stack mobile development and have experience with React Native, Firebase, JavaScript, React, Node.js, Express.js, Python, etc.
+
+Also, I am skilled at Teamwork and Communication, with the ability to Adapt and Collaborate in any working environment to provide and produce optimal and efficient work. I am expertise in application development using MVC architecture with React Native, Firebase, Web services, Apache tomcat server, and Oracle under Windows, and very well versed with complete Software Development Life Cycle (SDLC) and various software development methodologies such as Agile Methodology and Waterfall model.
+
+I am a self-motivated professional and natural communicator possessing good technical, initiating, leadership, and problem-solving skills, and be a good team player.
+
+My goal is to keep my clients on the leading edge of information transfer technologies, adding significant value to their business. I can start working on your job immediately and can supply you with a perfect audit. Hope to discuss your projects more. Thank you for your time.
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+%Supabase
+
+Hi, I experienced Supabase enough.
+It supports several Front-End frameworks including Angular, Expo, Flutter, Ionic Angular, Ionic React, Ionic Vue, Next.js, Next3, React, RedwoodJS, SolidJS, Svelte, SvelteKit, and Vue3.
+
+Supabase outperforms Firebase by up to 4x on the number of reads per second, and 3.1x on writes per second. Furthermore, it charges only based on the amount of data stored, not reads, writes, and deletes, but Firebase charges for reads writes and deletes too. So to speak, Supabase has two advantages - low price and high speed. So I prefer Supabase to Firebase.
+
+I'm well versed in Supabase applications that are collaborated with all kinds of front-end frameworks, so please message me if you want to build your project completely.
+Thank you in advance.
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+%Supabase
+
+===== Write a usage of Supabase with a simple line.
+
+It's an open-source alternate platform to Firebase where it provides all the backend services you may require to build an app.
+
+===== Describe your recent experience with similar projects
+
+I am quite familiar with Supabase and alternatives such as Firebase, etc. With Supabase, we can fluently import a CSV or copy and bury a spreadsheet to kickstart the design. This is great if we’re migrating data from another platform to Supabase. Firebase does not offer inbuilt services that enable us to directly upload bulk data. The stylish we can do is use a third-party knot script or commodity analogous, which looks hackish. Plus, we will have to convert our CSV( or whatever format) to JSON before doing anything at all.
+
+=====
+
+Hi,
+
+I am quite familiar with Supabase and alternatives such as Firebase, etc. With Supabase, we can fluently import a CSV or copy and bury a spreadsheet to kickstart the design. This is great if we’re migrating data from another platform to Supabase. Firebase does not offer inbuilt services that enable us to directly upload bulk data. The stylish we can do is use a third-party knot script or commodity analogous, which looks hackish. Plus, we will have to convert our CSV( or whatever format) to JSON before doing anything at all.
+
+I have done several apps whose backends rely on BaaS, including chat and social networking applications. I am in the programming world for over a decade now. With a Computer Science degree and a passion for always solving problems, I am a self-motivated person with the ability to take any challenge and make project execution successful.
+
+In my past experience, I have worked with native iOS and Android frameworks with both languages for each that they support, i.e. Objective C, Swift and Java, Kotlin respectively.
+
+In terms of React, I have been building and publishing apps on Android and iOS using React Native framework since 2015. Keeping in mind my previous background with almost a decade’s experience in mobile app development, I consider myself a well fit for any position to build scalable and high-performance applications.
+
+	Some of the recent work that I have done is as below for your kind review:
+
+	Prayer Group
+	https://apps.apple.com/us/app/prayergroup/id1551405659
+	https://play.google.com/store/apps/details?id=com.prayergroup.pgprod
+
+	Daskara
+	https://play.google.com/store/apps/details?id=com.txlabz.daskara&hl=en
+	https://apps.apple.com/lb/app/daskara/id1360886976
+
+	Concierge
+	https://app.bespokely.io/#/check_in
+	https://business.bespokely.io/
+
+	Rmbr1
+	Beta: https://testflight.apple.com/join/oa6shy3l
+
+I am well equipped with all the major project management and communication tools that help keep remote work on the right track. I am an expert at source version controlling and project management methodologies especially with agile. This experience gives me a clear edge over most of the candidates and I am confident that I surely outperform and exceed my client's expectations with the level of skill I have - this makes me bring a full package to the table as an engineer.
+
+Looking forward to working with you!
+
+Regards,
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+%Supabase
+
+Hi, I am quite familiar with Supabase and alternatives such as Firebase, etc. With Supabase, we can fluently import a CSV or copy and bury a spreadsheet to kickstart the design. This is great if we're migrating data from another platform to Supabase. Firebase does not offer inbuilt services that enable us to directly upload bulk data. The stylish we can do is to use a third-party knot script or commodity analogous, which looks hackish. Plus, we will have to convert our CSV (or whatever format) to JSON before doing anything. Supabase is good because it's a relational database and an alternative to Firebase which is a NoSQL DB, it is open source and the DB that it uses is PostgreSQL. Though it provides a rigid DB, there is a real-time functionality that is not secure, and also it is not ready for production yet.
+
+I have done several apps whose backends rely on BaaS, including chat and social networking applications. I am in the programming world for over 5 years now. With a passion for always solving problems, I am a self-motivated person with the ability to take any challenge and make project execution successful.
+
+I have been building and publishing apps on Android and iOS using React Native framework since 2015. Keeping in mind my previous background with almost 5 years of experience in mobile app development, I consider myself a well fit for any position to build scalable and high-performance applications.
+
+I am well-equipped with all the major project management and communication tools that help keep remote work on the right track. I am an expert at source version controlling and project management methodologies, especially with agile. This experience gives me a clear edge over most of the candidates, and I am confident that I surely outperform and exceed my client's expectations with the level of skill I have - this makes me bring a full package to the table as an engineer.
+
+I look forward to talking more about your job and discussing the details. Based on my experience and knowledge, I'd be a great asset to you and your team and play a key role in building your app successfully.
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+Hi, I am a lifelong learner and a master problem solver. I am an expert React Native developer who also specializes in back-end and cloud services such as AWS.
+
+You can check some of the recently completed projects:
+
+- Fitness App
+https://apps.apple.com/app/the-betty-rocker/id1220959832
+https://play.google.com/store/apps/details?id=theappmatch.bettyrocker
+
+- Flower Delivery
+https://apps.apple.com/app/french-florist-flower-delivery/id1474976904
+
+- Shopping app
+https://apps.apple.com/app/migros-shop-save/id412845300
+https://play.google.com/store/apps/details?id=ch.migros.app
+
+I am able to utilize an end-user-focused mindset and passion for collaborating to turn any challenges into a profitable service or product that exceeds all quality expectations. With my relentless passion for research, I guarantee that any feature that customers see will be cutting-edge, scalable, and functional.
+
+Timeline is most important for me and there will be no limit to my passion for you and credit comes first from me. Look forward to hearing from you soon.
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+Hi, I carefully read your project post and want to make you an offer and some background so that you can check my expertise.
+
+I have over 5 years of expertise in building numerous applications for cross-platform from development to deployment, ready to assist you in building features in the iOS codebase, and if needed ready to assist you in building new features as per your requirements on regular basis.
+
+Take a quick look at my recent project for your reference, which is helping millions of users.
+
+- Food and Grocery Items delivery:
+https://play.google.com/store/apps/details?id=app.speedo.delivery&hl=en_IN&gl=US
+
+- Cloud-based Biometric Time and Attendance solution:
+https://play.google.com/store/apps/details?id=com.companyname.optrax
+
+- Fintech payment processing app (Android):
+https://apps.apple.com/us/app/wirex-btc-debit-card-bitcoin-wallet/id1090004654
+
+The purpose behind sharing reference applications.
+
+- All applications I have worked on have been developed from scratch, so I know how to design the application architecture and write clean and well-maintained code.
+- I have experience in building excellent working applications, API calls, and Integration.
+- Provided bug-free legacy maintained source code for their future references.
+
+So we can discuss more detail in the chat about your project. I always write clean code so that anyone can check and understand my codes easily, so no worries about that. As well as, I can make the deadline task by task based on your requirement. Look forward to hearing from you soon.
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+Hi, I'm in a team of developers and designers. I am a Sr React Native mobile app developer with 5+ years of professional experience working with key technologies for JavaScript frameworks. Not only that, but I am more than an expert when talking about React, Typescript, Redux, MobX, Zustand, Material UI, MVVM architecture, Memory management, etc. I also have professional experience designing robust, extensible, and testable mobile application codes, and frameworks and have extensive experience in designing and integrating REST/JSON APIs.
+
+I have worked as a lead mobile developer on many projects. So I will support you throughout the entire app lifecycle, from architecture, frontend development, backend API design & development, and publishing to the stores.
+
+Let me show you some of my past work.
+
+- Geneva (Group chat/voice/video)
+https://apps.apple.com/ca/app/geneva/id1478573199
+https://play.google.com/store/apps/details?id=com.genevachat.prod
+
+- Here TV:
+https://apps.apple.com/us/app/here-tv/id1185302080
+https://play.google.com/store/apps/details?id=com.heremedia.heretv
+
+- CardioCast (Fitness)
+https://apps.apple.com/us/app/cardiocast-audio-workout-app/id999390082
+https://play.google.com/store/apps/details?id=com.cyclecast.cyclecast
+
+To remove all your doubts about my credibility, I suggest discussing your project face-to-face. I’ll be glad to explain how I can achieve your goals. Thank you for your time.
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+Hi, I have over 5 years of hands-on Mobile app development experience in Android SDK, iPhone SDK, Cordova, Ionic, React Native apps for iOS and Android, ReactJS, Angular (1-8), API development, Illustrator and Photoshop. I have been developing mobile applications using IONIC for the last 4 years, and I have excellent experience in developing a mobile app from the start to deploying the application on Apple and Google stores.
+
+Skills and expertise:
+Hybrid || React Native || Android || Angular || Ionic Framework || Ionic || JavaScript || AngularJS  || Laravel || NodeJS || React
+
+I have worked on IONIC 1- IONIC 5, including all the latest versions. I am very good at designing the UI for IONIC applications as pixel-perfect, with smooth animations and transitions. Not only that, but I am following the best industry standards to develop a mobile app and using the latest tools and techniques to make the application look beautiful with good UI/UX in it.
+
+Please have a look at my latest mobile apps (React Native and Ionic/Angular):
+https://play.google.com/store/apps/details?id=com.siddhpuja.ujjain
+https://play.google.com/store/apps/details?id=com.jaihaatkash.mob 
+https://play.google.com/store/apps/details?id=com.elzumie.mobile
+https://apps.apple.com/in/app/elzumie/id1448225862?ign-mpt=uo%3D4
+https://play.google.com/store/apps/details?id=com.bigcommerce.swimshop
+https://apps.apple.com/in/app/swimshop/id1477158070?ign-mpt=uo%3D4
+https://play.google.com/store/apps/details?id=com.avnews.mob
+https://play.google.com/store/apps/details?id=com.cultureapp.culture
+https://play.google.com/store/apps/details?id=com.eway.mmy
+https://play.google.com/store/apps/details?id=com.onlinejewellery.mysoniji
+https://play.google.com/store/apps/details?id=eway.ionic.mysoniji
+https://play.google.com/store/apps/details?id=com.eManazel.app
+
+Hope you provide me with details about the project as soon as possible so that we can give you a more detailed view of the services that I provide. Thank you for your time.
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+Hi, I have worked on more than 50 projects over 5 years of cumulative experience in React Native / React JS, NodeJS, Express, Redux, MySQL, Firebase, MongoDB, PHP Laravel, Apache, Code Igniter, HTML, CSS, Android Studio (Kotlin & Java), MERN, LAMP, and PHP + React Native / ReactJS.
+
+Having worked across multiple industries and niche sub-sectors - I have gained deep domain knowledge and worked on projects like eCommerce Apps, Delivery Apps, Service Demand/Marketplace Apps, Telehealth Applications, Wallets & Payment Apps, Online Travel Applications, Event Management Apps, Knowledge base Portals, School Management Systems, Video Streaming Platforms, Dating Apps and much more.
+
+I am highly motivated, detail-oriented, and focused on the intricacies of the Scope of Work to deliver accurately the vision of the client.
+
+My recent work examples:
+
+Video Sharing Platform with Advanced Video CMS
+https://www.upwork.com/freelancers/~0110ceac36da49fc66?p=1516563333783961600
+
+Multivendor Restaurant & Grocery Delivery App
+https://www.upwork.com/freelancers/~0110ceac36da49fc66?p=1508548721658548224
+
+Telehealth App - Video Consultation, Journal & Support Groups
+https://www.upwork.com/freelancers/~0110ceac36da49fc66?p=1509606450849488896
+
+I look forward to talking more about your job and discussing the details. Based on my experience and knowledge, I'd be a great asset to you and your team and play a key role in building your app successfully.
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+Hi, Last 5 years I developed many mobile applications using React Native, Redux, React, Node, IOS, and Android for US clients. I have successfully completed reflecting on my creativity and resilience.
+
+I am Self-motivated, an enthusiastic Software Engineer eager to contribute to client success through hard work, attention to detail, and excellent organizational skills.
+
+My main expertise includes:
+
+- React Native, Redux, React, Node, JavaScript.
+- IOS, MVC/MVP/MVVM, Android SDK, Rx Android, etc.
+- Firebase, REST, JSON, GraphQL, MongoDB, Postgres.
+- Push notifications, real-time data, messaging, feeds, and in-app purchases.
+- Sockets, Social APIs, Geolocation, Google Maps, FFmpeg, etc.
+- Location, Map Services, Mapbox, Map Kit, Uikit, etc.
+- Offline storage, Alamo Fire, Keychain, etc.
+- Multithreading, Analytics, Monitoring, etc.
+
+My recent example:
+
+- https://www.hangurs.com/
+I was the lead developer on this project. 5+ developers worked on this project. This is a luxury fashion app.
+Technical stack - React Native, MongoDB, Express.js, Node.js, AWS, IOS, etc.
+
+- https://apps.apple.com/ec/app/goodlife-coupons/id1267446241
+My team and I developed an MVP for iOS and Android devices.
+Technical Stack - React Native, MongoDB, Express.js, Node, IOS, Android, etc.
+
+Hope you share more details with me so that I can better understand your concept and see how I can help you.
+
+Regards,
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+Hi, I'm a mobile engineer with experience in C++, Objective-C, JavaScript, TypeScript, React, React Native, Expo, Native script, iOS/Android, Swift, In-App purchase, Rails, Django, Spring Boot, SQL, MS SQL server, MongoDB, Firebase, AWS Lambda, Docker, Git, and so on.
+
+Here are some of my previous work examples.
+https://apple.co/3LU9sAG
+https://apple.co/3MSkG8Y
+
+I ensure you of quality work with proactive and strategic thinking, and always prioritized my client's requirements. I look forward to discussing more detail. Thank you for your time.
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+Hi, I have significant experience designing, building, and scaling web and mobile apps, as you will see from my background. Some of the work I’ve done has even been featured by Apple, Google, TechRadar, and the New York Times.
+
+I have been developing web and mobile software since 2009 in Boston, MA, where I started the largest mobile app fitness brand at the time called Fitivity, which achieved over 15 million downloads and raised $1.5 million in venture capital from top VCs in the U.S. Additionally.
+
+Please check out some projects my previous team, and I've done recently.
+
+- https://apps.apple.com/ca/app/fly-virga/id1524210560
+I helped FlyVirga create an app for pilots to socially follow each other & submit PIREP reports while in the cockpit.
+It’s used by the NAFI (National Association of Flight Instructors), and it is recognized by FAA (Federal Aviation Administration) as “The Official App to Submit PIREP Reports”.
+
+- https://apps.apple.com/us/app/vizref/id1482680568?ign-mpt=uo%3D2
+We brought to life the sidekick for artists and creatives with VizRef! A Top 10 Paid App in March 2020 by Apple and featured by The New York Times.
+
+- https://apps.apple.com/us/app/eletedribble-league/id1454189239
+A venture-backed company, Elete became the most addictive and advanced app to develop ball-handling skills. Powered by Artificial Intelligence and Augmented Reality, your app links up with a smart basketball. It uses your device's camera to track the ball, and you can complete challenges, move up the leaderboards, and help build your basketball skills in a gamified way. We used Computer Vision and Machine Learning to make improving your basketball skills fun.
+
+- https://eletebasketball.com/
+We also helped them build their e-commerce store which contributed to the company reaching $1M in sales.
+
+- https://prepaynation.com
+We helped PrePayNation create groundbreaking technology for millions of its customers worldwide. We built their social Venmo-Esq app that helps their customers top up their mobile plans and gift mobile minutes to friends and family.
+
+- https://apps.apple.com/in/app/sukhi-workplace-well-being/id1585123698
+- https://play.google.com/store/apps/details?id=com.sukhi.app
+We helped Sukhi build an Android and iOS version of their mental health app, which they have been licensing to companies around the world! Sukhi streams live workshops, on-demand audio, and tools to help your workforce thrive.
+
+- https://apps.apple.com/us/app/v1-golf/id349715369
+- https://play.google.com/store/apps/details?id=com.v1.v1golf2&hl=en_US&gl=US
+V1 Golf swing analysis and golf instruction app empower golfers to be their best. Capture and review your technique with powerful golf swing analysis and video editor playback tools. Send golf swing videos to a golf coach and receive voice-over video lessons.
+
+- https://apps.apple.com/us/app/shine-bathroom/id1478510538
+We helped Shine Bathroom, a Mucker Capital-backed startup, create their entire iOS app. The Shine Bathroom app helps you communicate with the automatic bathroom cleaner, track water usage, and automate your toilet cleaning.
+
+- https://apps.apple.com/us/app/trecco-your-travel-community/id1501824385
+Trecco is a social travel recommendation platform where users can share, discover and engage in real-time with their friends. You can find your next getaway, or share your feedback on your last trip. Trecco combines the best parts of travel with awesome social and GPS features.
+
+- https://apps.apple.com/us/app/pitch-network-photo-resume/id1562945398
+We combined gamification and dating-app-esq features to make business networking fun! Answer questions, upload your video, and connect.
+
+- https://1972project.org/
+Project 1972 is a social networking and fundraising web application that focuses on justice and equality in the workplace. You can create a campaign, share it on your social platforms, and raise money. Similar to sites like GoFundMe or Kickstarter.
+
+- To see more projects I’ve attached a PDF with clickable links, and visuals.
+https://drive.google.com/file/d/1LBGkG8CYLGXmU615DENSvOqfQVx1hugs/view
+
+- Also, please check out our in-depth reviews and analysis on the leading B2B review site, Clutch
+https://clutch.co/profile/valere-labs
+
+Beyond my technical abilities, I am very honest. I have been in your shoes before as an entrepreneur and product builder. I want you to succeed.
+
+Look forward to making this project the first step toward our LONG TERM relationship. Thank you for your time.
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+Hi, I can definitely help you to deploy the OTT app into Apple Store including the below functionalities.
+
+- Video/audio player quality selection
+- Background playback and minimize playback in mobile app
+- Optimize the android for smart TVs like fireTV and Android TV
+- User experience issues fixes etc
+- Video/Audio ads integration with the player, etc. as per your needs
+
+For your reference, please browse through the below links to evaluate my skills and capabilities
+
+@ Bharat FM [Radio]:
+- https://play.google.com/store/apps/details?id=com.bharatmedia.bharatfm
+- https://apps.apple.com/us/app/bharatfm-app/id1588247595#?platform=
+
+@ Care Learn [Online Learning]:
+https://play.google.com/store/apps/details?id=com.developer.carelearn
+
+@ Stock trading application:
+- https://play.google.com/store/apps/details?id=com.stockx [Android]
+- https://apps.apple.com/us/app/stockx1/id1542444207 [iOS]
+
+These are just a few projects to give you a glimpse of my work and abilities.
+
+Here are my Knowledge and skills.
+
+- I am a computer science graduate with over 6+ YEARS of professional IT experience in Web and Mobile programming And I have worked on
+- Mobile App Development for both Android and iOS (Cross-platform app development) and Xamarin, React-native, Flutter
+- Cloud Services such as AWS and Azure.
+
+In addition, I have developed an ample number of mobile and web projects for my clients which are equally unique and good but because of NDA with them, I cannot disclose all such.
+
+Look forward to hearing from you very soon. Thank you for your time.
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+Hi, I carefully read your project post and want to make you an offer and some background so that you can check my work expertise.
+
+I have already built a bunch of scalable hi-load, low-latency, high-availability, performant applications & websites. Moreover, we work with the dedicated team model/out staffing model which means that you will communicate with the developers directly.
+
+👉 Here is one of my previous projects for you to check out.
+https://zenbit.tech/portfolio
+
+Look forward to hearing from you in the nearest future. Thank you for your time.
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+Hi, I think it will be difficult for you to hire me, so I am happy to do the small test or do free work for a week before hiring so that you can check my strong skills.
+
+As a senior software engineer who has more than 5 years of experience. I can share my previous examples.
+
+- kyberlife.com
+- drivingsales.com
+Also, here is what I have built in a day.
+- https://wtl-web.vercel.app/
+- https://62a1c78723b7b600095c8d26--brilliant-smakager-c5aeb5.netlify.app/
+
+Please let me know if you require any additional details from my end. I will be happy to share it with you. Thank you for your time.
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+Hi, as an expert mobile App developer for over 5 years, I can surely assist you with the development of a React Native app and integrate the front-end with back-end APIs.
+
+I am ready to start right away and willing to long-term commitments with also other technical expertise in Native iOS (Swift) and Android (Kotlin), Flutter, etc.
+
+Please check my previous work result.
+
+Android: https://play.google.com/store/apps/details?id=com.mellowmushroom.app
+iOS: https://itunes.apple.com/us/app/mellow-mushroom/id1313771632?mt=8
+Web: https://mellowmushroom.com
+
+I promise you:
+- Daily status updates in the development phase.
+- Regular scrum calls to assess the work.
+- Availability of 40+ hours/week
+- Follow the Agile methodology
+- Effective Communication skills.
+
+If you are interested, feel free to start a conversation! I am willing to participate in conversations about my skills and how these skills translate into project requirements. Thank you for your time.
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+Hi, I can do the bug fixes that you require in your application and can help you with adding new features. Can you please share the list of features and requirements that you want to make it to your application? I am an experienced Mobile developer with over 5 years of expertise in React Native and Firebase experience. I have developed and worked on various projects such as Fitness, Food, Real Estate, and much more. Not only that, but I can certainly handle your project from design to deployment. I have developed 20+ applications.
+
+Here are some of the projects that I have been involved in and developed to give a glimpse of my work.
+
+- Food Karma (C: Food K.F: Payment, Social Media, GPS, Notifications)
+https://play.google.com/store/apps/details?id=com.foodkarma&hl=en_US
+https://apps.apple.com/us/app/foodkarma-app/id1434294210
+
+- Food All in One
+https://play.google.com/store/apps/details?id=com.food_all_in_one
+
+- Loanzify (C: Finance K.F: Search, Payments, Calculator)
+https://play.google.com/store/apps/details?id=com.lender411.loanzify
+https://itunes.apple.com/us/app/loanzify/id897969937?mt=8
+
+- Insure Finda (C: Finance K.F: Wallet, Social Media Integration, Notifications)
+https://play.google.com/store/apps/details?id=com.revolutionminder.insurefinda
+https://itunes.apple.com/pk/app/insure-finda/id1308191196?mt=8
+
+- InfluenceMe: (Fitness and Health app)
+https://play.google.com/store/apps/details?id=com.influenceme&hl=en
+
+- Steppi (C: Fitness/Heath App K.F: Tracking, HeartRate, Steps Count, PushUps)
+https://play.google.com/store/apps/details?id=com.steppi.steppifitness
+https://apps.apple.com/ae/app/steppi-step-save-and-smile/id1496731586
+
+“High Quality + Fast Speed + Full Time + Faithful Development” is my motto. Look forward to hearing from you soon. Thank you for your time.
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+Hi, Your job post shoots out to me since it's extremely similar to the work I've provided for my previous clients. I have worked on some team projects and have launched many mobile applications to Google Play and App Store successfully using React Native.
+
+For the project to succeed, we have to make the code quality and update the libraries to the latest ones.
+
+One example of similar projects I've handled is:
+Plankk (https://plankk.com/our-apps/), where I successfully helped my client. They have many fitness influencers and wanted many applications (iOS & Android) for them and I have contributed to their iOS, and Android applications using Swift, Kotlin, and React Native. I contributed to all phases of their application development life cycle for mobile applications including planning, design, testing, deploying, and project support. Especially, I have helped them raise their new strategy by making the React Native Template of their application.
+
+Some of my other examples are:
+https://skylove.su/ (React Native, Firebase, Twilio API, etc.)
+https://play.google.com/store/apps/details?id=com.wecode.hafmob (Kotlin, Swift, React Native, Firebase, AWS)
+
+I love what I do and love to help others reach their goals. I look forward to discussing your project further. Thank you for your time.
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+Hi, I am a hands-on and highly competent React Native mobile engineer with 5+ years of professional experience and in-depth expertise in implementation, analysis, troubleshooting, and documentation. I have extensive experience playing with JavaScript, React.JS, Typescript, Redux, Redux-Saga, and Redux-Persist. Not only that, but I enjoy coming up with simple, clean, and efficient solutions focused on the user's experience.
+
+Please have a look at some of my past React Native apps.
+- https://apps.apple.com/us/app/lovee-dating-meet-date-me/id1232997772
+- https://apps.apple.com/us/app/carla-car-rental-rent-a-car/id1035631234
+
+Very excited to assist you in making your dream project successful. Please feel free to contact me directly to discuss this project further. Thank you in advance.
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+Hi, I am an experienced React Native developer. Please, make me clear by providing more details as you are looking for bug-fixing and additional mobile app work.
+
+I have the eye to analyze where is a problem very quickly and can confidently say what can be added and can be removed to make it quality work. Most recent mobile app for that, I have assisted my clients with additional feature integration and bug fixing after analyzing its source code. Also, provided bug-free legacy maintained source code for their future references.
+
+Social content sharing, liking, and uploading platform
+Android: https://play.google.com/store/apps/details?id=com.fadeagent.FadeAgentApp
+iOS: https://www.fadeagent.com/Files/apple.png
+
+Social intelligence platform
+https://play.google.com/store/apps/details?id=com.qservices.rapidfirefeedback
+
+Dating and chatting, a clone of the Tinder mobile app where users can chat
+https://play.google.com/store/apps/details?id=com.QServices.bestmatch
+
+I would be happy to discuss your project needs and how I could help you meet them. Thank you for your time.
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+Hi, I am a senior React Native mobile app developer with 5+ years of professional experience working with the React Native framework's key technologies. I have been developing mobile applications for the last 7+ years, including native iOS and Android apps. Not only that, but I am more than an expert when talking about MVC architecture, React, Redux, Redux-Saga, Material UI, and many custom-built React components. I also have professional experience designing robust, extensible, and testable mobile application codes, and frameworks and extensive experience in designing and integrating REST/JSON APIs.
+
+Let me show you some of my past work.
+https://play.google.com/store/apps/details?id=cr.go.ice.mav.activity
+https://play.google.com/store/apps/details?id=go.cr.jasec
+https://apps.apple.com/us/app/univoice/id1446390073
+https://apps.apple.com/us/app/ls-engage/id642297380
+
+My goal is to keep my clients on the leading edge of information transfer technologies, adding significant value to their business.
+
+Please let me know if you require any additional details from my end. I will be happy to share it with you. Thank you.
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+Hi, I can surely assist you with your job as I have all the required expertise.
+
+I would like to take this opportunity to implement the new features as well as provide ongoing support on your existing React Native project. I am available for a full-time position and looking for a long-term opportunity.
+
+Kindly share complete details reading your project for further review so that I can check once at my end and can get back to you with feedback & estimation for work completion along with any questions, I might have.
+
+
+About me:
+
+I have more than 3 years of relevant expertise in the mobile app development domain and delivered apps in different business segments including Online ordering apps, Healthcare apps, Ed-tech apps, fitness apps, Marketplace apps, Media apps, and Pharmacy apps in the past. I have good skills in native IOS/Android development, React Native, Flutter, Swift, Java, Kotlin, Objective-C, Xcode, android studio, deploying apps to apple & Google Play Store, AWS, GIT, Jira, slack, etc.
+
+
+My past React Native projects:
+
+1) Uvii: (Using React Native)
+Uvii is an educational-related application that facilitates collaboration, Q&A, and assessments, instructors post surveys & options to students to respond to audio, video posts & more.
+
+IOS app: https://play.google.com/store/apps/details?id=com.uvii&hl=en_IN
+Android app: https://apps.apple.com/us/app/uvii/id1200167808
+
+2) Grigora (Restaurant): (Using React Native)
+Grigora is a food delivery app with delivery features that include easily adding and updating your menu, receiving real-time updates, accepting & manage orders, view earnings, ratings, and reviews all at your fingertips with multiple devices at the same time.
+
+Android app: https://play.google.com/store/apps/details?id=com.rvtechnologies.grigorahq
+
+3) Grigora (Driver): (Using React Native)
+Allow riders to check the details of their all orders, provide the navigation to the delivery address, and they can check the history of past delivered orders as well.
+
+Android app: https://play.google.com/store/apps/details?id=com.deepak.grigorago
+
+
+I believe the above-given work references will suffice enough to prove my credibility for the given assignment. I have flexible working hours and can be available in your time zone via chat or call.
+
+Look forward to your kind reply. Thank you for your time.
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+Hi, React Native is my core skill for Hybrid iOS and Android app development, and I am very familiar with Firebase backend, so I can satisfy your project.
+
+My React Native app samples:
+
+(Fitness App - Calorie Counter)
+https://apps.apple.com/us/app/calorie-counter-mynetdiary/id287529757
+
+https://play.google.com/store/apps/details?id=com.fourtechnologies.mynetdiary.ad&hl=en_US
+(Business App - Shift smart Partner)
+
+https://apps.apple.com/us/app/shiftsmart-partner/id1235930724
+
+https://play.google.com/store/apps/details?id=com.shiftsmart.workerapp&hl=en_US&gl=US
+(Education App - Bright - English for beginners)
+
+https://apps.apple.com/us/app/bright-english-for-beginners/id1258621855
+
+https://play.google.com/store/apps/details?id=com.engbright&hl=es_CO&gl=US
+(Finance App - Empower: Up to $250 Advance)
+
+https://apps.apple.com/us/app/empower-up-to-%24250-advance/id1136397354
+
+https://play.google.com/store/apps/details?id=finance.empower&hl=en_US&gl=US
+
+To remove all your doubts about my credibility, I suggest discussing your project face-to-face. I’ll be glad to explain how I can achieve your goals. Thank you for your time.
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+Hi, It seems like my coding skills & experience are what you need as a talented React Native developer, I'm ready to help you with the project.
+
+My technical background includes:
+
+- 4+ years of experience in developing web and mobile applications.
+- Strong skills in React Native, TypeScript, ReactJS, Redux, and associated libraries/tools.
+- Experience in developing hybrid applications with React Native.
+- Experience with React Hooks and React-Navigation.
+- Experience in developing unit and integration tests.
+- Proficient in planning, designing, and implementing SPAs using React, and Redux.
+- Experience with API and documentation with swagger.
+- Some experience with Firebase functionality.
+- Extensive experience working with Git.
+- Experience with Scrum
+- Fluent in English
+
+I have worked on many successful projects. Let me share some with you for reference:
+
+a) https://apps.apple.com/pl/app/my-pt-hub/id1473947709
+My PT Hub is an online web and mobile app that enables personal trainers, coaches, and gym owners to manage their clients with ease. You can create workout and nutrition plans tailored to each individual client while tracking their progress and achievements.
+
+b) https://apps.apple.com/pl/app/procredit-georgia/id1612027785
+This is the bank’s mobile application for conducting transactions, opening accounts, transactions between cards, and other business features. The application provides the user with great functionality and protection of personal data.
+
+Look forward to working with you sincerely. Thank you for your time.
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+Hi, I'm a software Architect/Mobile/web Engineer with over 5 years of experience in both iOS and Android.
+
+Key skills include:
+
+- Android & iOS Apps Development using Java, Kotlin, Swift, and React Native.
+- Android SDK, Django
+- iOS SDK
+- Google Architecture & all native android API components
+- Social Login/Apple login
+- Third-Party Integrations
+- Google APIs
+- REST APIs
+- JSON/XML Parsing & Dynamic data handling
+- SQLite/Realm/Core Data
+- Payment Gateways - PayPal, Stripe, Braintree, Pay fort, Razorpay, and 10+ more
+- Firebase, google cloud APIs - maps, places, geolocation, geocode, and such APIs.
+- DevOps/Server side infrastructure management - AWS, AZURE, Google Cloud
+
+Some of my works are:
+
+https://mindandmom.com/
+https://www.seenit.io/
+https://circle.so/
+https://www.bark.com/en/gb/ VERO - True Social‬(1 million downloads)
+https://play.google.com/store/apps/details?id=co.vero.app
+https://apps.apple.com/us/app/vero-true-social/id971055041
+
+Hope you provide me with details about the project as soon as possible so that we can give you a more detailed view of the services that I provide. Thank you for your time.
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+Hi, I'm a professional mobile app developer with great expertise in cross-platform mobile development focused on Flutter and RN.
+
+Can you please confirm whether you have more information about the scope of work you currently require assistance with?
+
+Among our last projects are:
+🚀 Healthread - a social network where people with the same health interests can look for counterparts to share their health stories and find support, understanding, new friends, or even start a new way of life.
+https://play.google.com/store/apps/details?id=com.healthread.app&hl=en https://apps.apple.com/app/id1498450688
+
+🚀 Nutralete - an ultimate nutrition tool for fitness professionals and their customers. Users of the platform subscribe to their coach’s diet plan and set their profile to receive personalized calorie and macronutrient targets based on their body type and lifestyle. They can track their diet daily to make sure they are reaching their goals. Please find more details regarding the project following the link: https://litslink.com/case-studies/fitness-nutrition-monitoring-app
+
+🚀 Chronic illness tracking app - the web and mobile tracking that helps people to monitor their health and manage chronic illnesses https://apps.apple.com/us/app/flaredown-for-chronic-illness/id982963596 https://play.google.com/store/apps/details?id=com.flaredown.flaredownWebWrapper&hl=en_US
+
+I look forward to talking more about your job and discussing the details. Based on my experience and knowledge, I'd be a great asset to you and your team and play a key role in building your app successfully. Thank you for your time.
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+Hi, For over 5 years, I've developed a wide variety of projects as a React Native developer, and that's why I think I can help you develop the mobile portion of your application.
+
+A little more about me:
+* 5+ years experience with React Native;
+* Understanding of React Native core concepts;
+* Experience with complex API integrations, primarily REST;
+* Experience with TypeScript, Firebase, and AWS;
+* Excellent interpersonal and written/verbal communication skills;
+* Fluent level of English;
+* A self-organized and proactive person;
+
+This is just a brief idea of my capabilities, feel free to ask for more details via chat, I'm always open to conversation.
+
+I have worked on many successful mobile projects. Let me share some with you for reference.
+
+a) https://www.lanslot.app/
+Mobile eGaming platform that allows its users to play their favorite mobile games with their friends or rivals both in one2one and tournament formats; the users can chat within the app and find new friends across the world.
+
+b) https://apps.apple.com/us/app/roomster-roommate-finder-find/id1045548013
+The mobile app augments Roomster's home-sharing platform and lets users find an affordable place to stay overnight or for any desired time period. The app supports in-app messaging between users to allow them to refine their search, in addition to tons of search, sort, and filter options.
+
+Hope you share more details with me so that I can better understand your concept and see how I can help you. Thank you for your kind attention.
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@

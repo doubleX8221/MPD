@@ -1,0 +1,42 @@
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+SSIS (SQL Server Integration Services)
+SSRS (SQL Server Reporting Services)
+T-SQL (Transact-SQL)
+Microsoft SQL Server
+ETL (Extract, Transform, Load)
+SQL
+Data Warehousing
+Databases
+PL/SQL
+SSAS (SQL Server Analysis Services)
+SDLC (Software Development Life Cycle)
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+I'm a Sr SQL developer with over 5 years of hands-on experience in developing database applications and administering database and information systems, driving 97% stability, reliability, and performance by optimizing in-application SQL statements and designing user-focused databases.
+
+Developed an ETL Database Model to carry out new procedures while creating various database warehouse dimensions to accept ETL outputs.
+
+Gathered all necessary departmental requirements from 40+ business analysts, subsequently developing physical data models using Erwin while creating DDL scripts to design database schema and database objects.
+
+Performed database defragmentation while optimizing the entire SQL queries, improving database performance and loading speed by 70%.
+
+Utilized Joins and sub-queries to simplify complex queries involving multiple tables while optimizing procedures and triggers in production.
+
+Wrote 10+ SQL queries to obtain data from multiple tables to spool into CSV format and provide extracts to all company businesses and users.
+
+Designed databases, stored procedures, reports, and data input interfaces using SQL Server 2005, 2008, and C#, gaining positive from the general individual performance while increasing group efficiency rate by 22%
+
+Developed C# applications add-ons for ERP systems to better accommodate user needs, provide accurate information validation, and maintain streamlined processes, gaining a 97% satisfaction rate from all clients.
+
+Imported, exported, and manipulated large data sets in multi-million-row databases under tight deadlines, successfully resulting in the 100% delivery of all projects within given timeframes and set goals/objectives.
+
+Hope to have good cooperation and create many successful projects in the future. Sincerely.
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@

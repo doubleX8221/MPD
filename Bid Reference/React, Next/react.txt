@@ -1,0 +1,17 @@
+
+	We need a three.js/webgl developer for our 3d animation site
+
+We are seeking a developer with good understanding and experience with Three.js and WebGL. 
+Requirements: 
+ - Computer graphics pipelines, rendering methods 
+- Deep understanding of ray tracing and raster graphics pipeline. 
+- Proficiency and prior experience developing WebGL-based 3D applications are required. 
+- Shader programming experience is a plus.
+- Deep understanding of Optimizing and offscreen canvas
+- Physical Models Rendering approaches are something you should be familiar with. 
+- Linear algebra, quadratic functions, analytical geometry, and optical physics are among the subjects in which you excel.
+
+
+
+
+

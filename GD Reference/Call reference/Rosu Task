@@ -1,0 +1,27 @@
+Project Requirements: 
+
+Develop a simple web application to manage a portfolio of work for a digital artist. 
+
+The application must include the following functionalities: 
+1. UI/UX design Create an attractive and easy-to-use interface that provides a pleasant user experience. 
+2. Data Modeling Defines the data structure and relationships for each work in the portfolio. Each work should include details such as title, description, image, link to client site and status (hidden/shown). 
+3. CRUD Functionalities Implements Create, Read, Update and Delete (CRUD) functionality for portfolio work management. 
+4. Displaying the Portfolio Develops functionality to display jobs in a list or grid, with the option to hide or show specific jobs. 
+5. Upload Images Allows the user to upload images for each work in the portfolio. 
+6. Link to the Client's Website Implement a field to add a link to the client's website for each job. 
+7. Responsiveness Make sure the app is fully responsive and looks good on all types of devices and screen sizes. 
+8. Testing Performs detailed application testing to ensure correct and error-free functionality. 
+
+
+Technical requirements 
+Front end: Develop the interface using React. You can use other frontend frameworks (Angular/Vue), but React is preferred. 
+
+Back end: It uses NestJS to develop the server side. 
+
+Project Structure: It organizes the project into a standard structure that is easy to understand and manage. 
+
+Write clean and optimized code following industry best practices. 
+
+Documentation: It includes clear instructions for running the application and any other details relevant to the assessment. 
+
+The deadline for submitting the test is 14/08/2024. We look forward to seeing your creation!

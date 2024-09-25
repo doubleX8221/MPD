@@ -1,0 +1,479 @@
+
+
+----------------------------------------
+Dynamic Animation (three.js)
+
+
+Hi there,
+I have done similar projects in Three.js, and can create a page like this where you upload the model, it will make a camera animation, record each frame, save to the server and then run a software like ffmpeg to compile the frames into a video and give you the link.
+I'm more experienced in the three.js side of things, making everything look good with high quality, and the video conversion part I haven't done before, but I know in theory how it should work.
+The different sizes might also present a challenge, or we set an height and width limit, or it's something manual that the user adjusts the scale before rendering.
+
+Take a look at this Three.js page that we're building for KlimaDAO cryptocurrency, it's a three.js page that appears when the user scans a qr code, and it will display the carbon impact of their NFT in a 3d natural environment.
+https://klimadao.aden.digital?staked=1
+
+Also see this virtual assistant we are building
+https://adn.aden.digital/threejs/
+You can test running this function in chrome developer console to see the lipsync example:
+LoadAudioWithViseme("https://s3.eu-central-1.amazonaws.com/cdn.adn.ai/audio/speech01_en.mp3","https://s3.eu-central-1.amazonaws.com/cdn.adn.ai/audio/speech01_en.marks");
+
+See some examples of websites we created:
+https://optivisaomais.optivisao.pt/
+https://romboats.unloop.pt/
+http://www.omare.pt
+https://demo.aden.digital/BladeRunner/ (concept)
+
+I am a digital artist and director of Aden, a studio based in Portugal. We specialize in websites, web experiences and app development. We have developed multiple interactive projects for agencies, retail, education, culture, tourism, events and would love to work with you.
+
+See my portfolio :
+https://raf.pt
+https://adeninteractive.com
+https://raf.pt/portfolio/RafSilva_UI_2021.pdf
+
+Our production usually includes copywriting, wireframing, UI design, 3D and 2D art assets, animations, responsive development, cross browser compatibility, user testing, backoffice and SEO.
+Development in HTML, CSS, Javascript, Three.JS, Node.JS, Vue.JS and Laravel
+But of course we'll adapt it to your needs.
+
+Send a message and we can talk about the project.
+
+Thank you,
+Rafael Silva
+
+
+
+
+-----------
+
+Tere,
+
+I will write a script that loads a model from a Database/File/URL, captures a video of the 360 of the model, and then saves it to a Database. The camera will adjust its zoom depending on the size of the product using raycasting on the edges of the product. I will use Puppeteer to generate the video of the 3d scene.
+BEST WORK: 3D Shed Configurator App. https://youtu.be/eaiVPsXLUvg
+About Me:
+I specialize in interactive and configurable WebGL apps. I mainly use advanced
+WebGL libraries like ThreeJs.
+I can also implement server-side rendering using puppeteer. This can be useful if you want to generate the blueprint of the configured product or a 3d analysis data in PDF format(example generated blueprint attached below.) The same concept can be applied to generate a video of the scene.
+Portfolio:
+I am the sole developer of all the apps listed here.
+3D shed Designer app: https://youtu.be/eaiVPsXLUvg
+All the geometry and uvs are generated from code. The app generates modular
+geometries and then assembles them like a lego house. This enables highly
+dynamic interaction but is harder on the developer side as there is a lot of
+mathematics involved.
+Sun Azimuth, altitude controller on a 3D Google
+Map https://youtu.be/FnCTCKr9UzE
+Solar panel annual Yield estimator: https://youtu.be/vsdt_wr0bzo
+users model their roofs on Google Maps and then the app places 3d solar
+panels on their roofs. Users can control the direction and intensity of the sun to
+get an annual yield from the solar panels
+I also have metaverse projects under development. I am willing to share them
+during interview
+Skills: React, Three,js, Type Script, node.js,express, webpack,babel,physics
+engines,AWS
+New Skills: Etherium, blockchain, solidity, docker, Kubernetes
+
+
+--------------------------
+
+Thank you for your job posting.
+
+I am an expert Three.js developer with strong skills in building realistic scean and fiction scenes. I can setup stage, lights, filters and custom shaders based on your requirement.
+Plus I can build automatic pipeline for video record and upload using javascript.
+Please let me know when we can have detailed discussion for the project.
+Thank you.
+
+Yasser.
+
+
+----------------------------
+
+
+Hey,
+
+I reviewed the job description and understood what you want but I would like to have a quick call session on Upwork so we can discuss this project in detail as this project needs to cover many areas on which I need to ask a few questions so I can give you suggestion and recommendations according to the feature and functionality that you require which is pretty moderate to build but with the right directions and guidelines it will be possible if we communicate efficiently.
+
+I specialize in UI/UX, Website design including all the specialties that you have mentioned in your job description, and can assist you with your projects. I have been working together for various clients, designing or re-designing websites for quite a while now. I've designed and developed many websites and I have done Custom CSS, SVG, GSAP, and three.js animation.
+
+Please have a look at the following website where you can see the animation that I've done.
+
+https://futuritybioventures.com/ (3D scroll animation) (three.js)
+https://www.squadeasy.com/en/ (3D scroll animation) (GSAP)
+https://cowboy.com/ (3D animation) (three.js)
+http://corva.ai/ (2D Isos animation) (JSON, SVG)
+
+Also for the modeling, I can help you with it as my Partner is a professional 3D artist and has 10 years of experience in the industry. Here's his portfolio to review:
+https://drive.google.com/drive/folders/1hAZ40IOGSPVQg7nMcxzvAyseVDWkX-1-?usp=sharing
+https://drive.google.com/drive/folders/16pIkPgvR90JyM1_YxcVOsXzigG--NhAP?usp=sharing
+
+I am aware of all the precautions to be taken because of the sensitivity of the project and I will definitely result in a perfect choice for this project.
+
+Hoping to hear from you.
+
+Regards,
+Shariq W
+
+---------------------
+
+Hi, For your project we would use rendered images of 360 rotation of the product. and in JS we would make a reaction to the movement of the mouse or finger to rotate the object. This would give maximum quality and more interaction with the user than video
+How many products do you have in total?
+
+I attached some of our works on 3d graphics for you to evaluate the quality.
+
+Thanks,
+Waiting for your answer
+
+-----------------------
+
+Hello, I have read your job posting and I know you are gonna convert fbx 3d modeling file from Blender to HTML web based application.
+As a senior developer, I have rich experience in converting fbx, glb, gltf 3d modeling file to HTML web based application.
+We can use WebGL for it and there are three.js, playcanvas, and babylon.js libraries.
+Once, I check your fbx file, I will suggest a best option for it.
+Looking forward to discuss in more detail via chat.
+Thank you.
+
+
+-----------------------
+
+
+
+
+
+
+
+
+------------------------------------------------urls-------------------------------------------------------------------
+
+
+
+
+Take a look at this Three.js page that we're building for KlimaDAO cryptocurrency, it's a three.js page that appears when the user scans a qr code, and it will display the carbon impact of their NFT in a 3d natural environment.
+https://klimadao.aden.digital?staked=1
+
+
+Also see this virtual assistant we are building
+https://adn.aden.digital/threejs/
+
+
+See some examples of websites we created:
+https://optivisaomais.optivisao.pt/
+https://romboats.unloop.pt/
+http://www.omare.pt
+https://demo.aden.digital/BladeRunner/ (concept)
+
+
+https://graceful-croquembouche-7919dd.netlify.app/ 905d97.netlify.app/ - A Website that revolve around the use of particles https://naughty-hawking-ce61e1.netlify.app/ - A quizz game made for a customer
+
+
+
+https://futuritybioventures.com/ (3D scroll animation) (three.js)
+https://www.squadeasy.com/en/ (3D scroll animation) (GSAP)
+https://cowboy.com/ (3D animation) (three.js)
+http://corva.ai/ (2D Isos animation) (JSON, SVG)
+
+https://3dworld.pages.dev/
+
+https://canza.netlify.app/
+https://impala-print.netlify.app/
+http://pixxtasy.com/
+
+
+https://gallery.swell.ripple.com (React, tailwind css, three.js)
+
+https://lusion.co/
+http://disrupt.com.hk/
+https://virtual-tour.jobable.com/#/
+http://360vr.hk/test-2/
+https://renaultespace.littleworkshop.fr/
+http://vr.ff.com/us/
+https://2050.earth/
+
+https://argument.uz/archive/aviator
+https://leo.com.uz
+https://sochi-village.giraffe-agency.ru/
+
+
+
+
+
+
+
+
+three.js 8th wall
+
+https://supermedium.com/gunters-of-oasis-deploy/
+https://templates.8thwall.app/placeground-threejs
+
+2d design tool
+https://www.flipsnack.com/online-design-tool
+
+Boat configurator for a big boat company.
+Did all the frontend and managed and developed part of the backend using mongo, node, etc.
+http://design.tige.com
+
+3D Maths Vault Website
+House of Math requested for a 3D Web Vault experience to function as an interactive menu which its users could use to choose maths tasks that they were to complete, but the concept wasn't finalized yet. So not only did it need to be developed to render in real time WebGL 3D in an interactive manner from the HOM website, but its layout, sequences and visuals needed to be planned beforehand as well.
+https://www.houseofmath.com/math-vault
+
+
+3D Animated Scrolling Website - Dance E-Bikes
+I adopted this project which was heading towards the end of its production but needed to be finished off regarding some bug fixes and certain aspects of it required to be reworked. This involved the bike's scroll animation to suit a new layout. Amending the model's component rig, materials and updating its textures. Positioning the hotposts correctly and amending their css animations. Updating the react-three-fiber code and supporting libraries to work with the updates and in different device screen sizes. Adding loading functionality for the 3D assets to improve website performance.
+
+less
+https://dance.co
+
+
+
+Project description
+This 3D product configurator was built from Arvec's software engine and embedded on Blisstil's Shopify store for clients to configure their SleepMuffs product.
+
+The configurator has 4 cover types, product component assemblies and measurements to select from the user interface.
+
+The UI and product component spread layouts were adjusted according to the feedback received from Blisstil.
+
+This 3D app was delivered in about a week's working hours.
+https://blisstil.com
+
+
+
+3D Product Configurator with Web Augmented Reality - Bock Lighting
+
+Project description
+Upgrading a 3D lighting product configurator application on the Bock Lighting website for clients to view, customize and then order their products online. Refactoring the configurator from sequential processing with javascript to dynamic processing with react-three-fiber. Adding react-spring animation transitions for multiple parts to assemble into place and material colour transitions for surface changes. Applying more realistic materials and lighting for the WebGL models to resemble previously pre-rendered product images. Adding web augmented reality functionality with WebXR for user’s to able to augment their customized products into their environment with an Android or iOS mobile device.
+https://www.bocklighting.com/create
+
+
+The challenge was to determine and create a 3D website from scratch which has 3D animated events during the users scroll. This working with Soly Group in Norway for American Aquafarms, using the latest 3D website technology available.
+
+Also to design and develop a structure/rig which was compatible with work from the 3D artist's 3D work and be workable by another React developer who would work on the React UI and who's background wasn't with 3D.
+React and Three js 3D Front-End Development - American Aquafarms
+https://www.americanaquafarms.com/
+
+
+
+Three.js and Blender - Nike Shoe model on Footlocker web app
+This is a Nike shoe customizer 3D web app for Footlocker called Tune the Tuned. It was a reskin of the 2018 version to have a new shoe for 2019. I modeled the shoe with Blender and updated the JavaScript three.js code to accommodate the new 3D assets.
+https://tunethetuned.com/
+
+
+A pair of headphones that I modeled and animated for Sketchfab. This platform provides a viewer based on the WebGL and WebVR technologies which allow users to display 3D models on the web.
+https://sketchfab.com/3d-models/headpones-vr-9aa61c0e1a0947af85171b7e24e2fcb8
+
+EXFit allows you to maximize your gym workout efficiency. We have gathered professional athletes’ widely used techniques, knowledge, and experience about how to organize a workout.
+https://exfitapp.com/
+
+This is web application with integrated billing and tax calculation systems based on subscriptions, complex three.js based multi-mode editor. It has also a admin app and several integrated editors for internal resources. Three.js editor has vast usage of websocket feature. All above is integrated into website with authorisation system and WordPress blog for user convenience and community development support.
+https://westatix.com
+
+This portal is a presentation site for financial company.
+UI was made using React library, portal’s backend is made on Node.js.
+Built-in Mongo DB ORM was optimized to work with high load queries.
+Portal's UI also include 3d scene, which was made using Three.js library with custom shaders.
+Charts were made using D3.js library.
+http://transactions.kirinami.com/
+
+
+React based sushi shop with dynamic interface, product constructor feature and admin app. Mongoose was chosen as convenient ODM solution and app is served using Nginx web server technology.
+https://artsushi-nn.ru/
+
+This site is informational portal for aggregation of data from different sources.
+Site was developed with full stack Symfony PHP framework, using Twig as template engine and Doctrine ORM for DB implementation.
+These technologies were chosen for better performance and convenient development process.
+https://suvs-rankings.com/
+
+
+This site is online store of log-houses with delivery and full construction.
+There is also control panel for site administrators to manage content and process orders.
+Site was developed using Silex PHP framework with Twig as template engine and Doctrine library as ORM.
+Site also use open Google API to calculate delivery price.
+https://www.upwork.com/freelancers/~011e1031c88214ccda/?p=930815825857671168
+
+
+This is online store of different tools and construction materials.
+Site itself was developed using Silex PHP framework in tandem with Twig as template engine and Doctrine library for DB abstraction level.
+Control panel for site was developed using Angular JS as front end framework and PHP for backend.
+This allow site moderator and content managers to work conveniently with dynamic interface.
+Site also includes xml generator module for different trade platfroms and tool for import data from xls files directly to db.
+https://www.upwork.com/freelancers/~011e1031c88214ccda/?p=930815825857671168
+
+
+The Society for Neuroscience wanted to create a 3D Interactive Brain as part of the major rebrand of Brainfacts.org.
+With funding from the Wellcome Trust, Matt Wimsatt and I combined our skills in 3D Medical Illustration and Interactive WebGL development to design and build an immersive, educational guide to the human brain.
+As the sole developer on the project, my role extended from 3D model clean-up, custom python scripting, baked and live GLSL shader design, efficient web worker subdivision techniques and thoughtful interactive user experience.
+The brain will continue to be updated and improved into a second phase, with updated neural circuits, more detailed 3D models, and improved code design.
+The module is a huge part of the new Brainfacts website, with many links and presentations pointing to it for medical and educational reference.
+
+http://www.brainfacts.org/3d-brain
+
+
+Voting App is a Free code camp training project. Technologies used to build this project include,
+Front-end: Angular 2, Chart.js, Bootstrap.
+Back-end: Node.js/Express, MongoDB, Passport.js.
+Deployed on Heroku.
+http://fccvotingapp2017.herokuapp.com/
+
+
+We wanted to show user's cs:go skins in 3d so with that way users can see each other shops better. Also it works on every browser. So you don't have to install anything.
+https://3d.gamerpay.gg/shop/309
+
+
+I have built a dashboard for visualize companies data. Data comes from Socket-io Flask server and are shown real time. On frontend part, I've used ReactJS, NextJS, Redux, D3 and Tailwind CSS. All visualisation are made with D3.
+Charts:
+- Structured Word Cloud
+- Force Graph
+- Treemap
+- Geography
+- Word Cloud
+- Line Chart
+- Sparkline
+Startup Companies Dashboard
+https://www.upwork.com/freelancers/~01f3b1341c84a11747/?p=1407311594123436032
+
+
+Youtube-Sync is an app that provides you to watch Youtube videos synchronous and chat with your friends.
+https://you-sync.herokuapp.com/
+
+
+You can adjust your body and try clothes in 3d.
+https://cloth-3d.herokuapp.com/3d-body/
+
+This game is developed by using JavaFX.
+https://github.com/hamitaksln/Fruit-Ninja-JavaFX
+
+
+I tried to re-create Superpeer Landing Cards with HTML Elements and Tailwind CSS.
+https://superpeer-landing-cards.vercel.app/
+
+Shopify website design and development.
+https://completewellness.com/
+
+
+Vehicle Booking Application 1-800-LIMO.COM is a web-based digital sales platform that matches budget and quality minded luxury travelers with friendly and attentive drivers with safe, reliable, on-time ground transportation anywhere around the world; in clean, comfortable, and well maintained non-autonomous vehicles, at the lowest available rates.
+https://1800limo.mobilytedev.com/home(laravel javascript)
+
+Developed an online multiplayer tabletop game containing several game types. The games included are Poker, Ludo, Draw It!, Chess and more.
+https://titanforged.itch.io/gamenight
+
+Added new models/materials, environment, lighting/shadows, and camera positioning system to the 3D builder. Did bug fixes and performance improvements to existing code.
+https://www.nabru.co.uk/design-your-own-standard-sofa
+
+
+Project description
+Game for gamejam, completed in 16 hours
+https://d3e.itch.io/toiletpaper-vr
+
+I've designed branding and created web site for Senso Devices - a VR hardware company, I've also developed the marketing campaign for the company. As a result we raised company sales at 600%. The site has also scored high in the Awwwards ranking.
+The whole job on the site including design, coding, photo/video production and copywriting was made by me.
+
+less
+https://senso.me
+
+
+Three.js FPS game using ammo.js and three-pathfinding with ES6 and Webpack.
+
+The project features an entity/component system, FPS controller using ammo.js rigidbody, NPC with root-motion animations and a basic AI.
+https://github.com/mohsenheydari/three-fps
+
+
+As an educational tool, this web app allows the trainer to present the piloting instruments of an Airbus H160 helicopter in a virtual and interactive way.
+https://boualemb.gitlab.io/aeroschool/
+
+------------------------------------------------------------------
+Hello, I'm a full stack developer | Three.js / Babylon.js / Unity / WebGL / Node.js / React, XR / MR / VR, and Product Management for over 7 years.
+
+Currently focused on human enhancement technologies(XR), including MR/AR/VR, AI-enhanced tools and creating interactive multimedia experiences. Presently leveraging research & strategic insights to aid the creative community (brands, businesses & individuals) develop interactive and immersive experiences that can be referenced and refined over time.
+
+Feel free to discuss the project in detail.
+
+------------------------------------------------------------------
+
+Hello. I have extensive experience in creating complex projects from scratch including projects with complex 3D animations.
+
+I've worked for the past five years almost exclusively with webGL/three.js. Jobs have included 3d model viewers, product configurators, bone-based animation, particle effects, procedural mesh generation, multi-layer 2D sprite environments, and motion capture/motion tracking for armature animation.
+
+To expound upon the v.r. experience: While working on staff at the lab I was tasked with developing software for an accelerometer-based glove apparatus, learned about VR theory and methods of application, worked with a unity-like engine, and modeled in 3DStudioMax and Maya. I was also involved in the various upkeep and troubleshooting needs of a VR-capable network of nodes and projectors.
+
+------------------------------------------------------------------
+BEST WORK: 3D Shed Configurator App. https://youtu.be/eaiVPsXLUvg
+
+Hello,
+
+I can make you a drawing tool that has multiple layers, filters SVG icons based on the line types, Snapping behavior, and other features. I understand the concept but it would be nice if you can provide me with practical examples.
+
+
+About Me:
+I specialize in interactive and configurable WebGL apps. I mainly use advanced WebGL libraries like ThreeJs.
+
+I can also implement server-side rendering using puppeteer. This can be useful if you want to generate the blueprint of the configured product or a 3d analysis data in PDF format(example generated blueprint attached below)
+
+Portfolio:
+I am the sole developer of all the apps listed here.
+
+3D shed Designer app: https://youtu.be/eaiVPsXLUvg
+All the geometry and uvs are generated from code. The app generates modular
+geometries and then assembles them like a lego house. This enables highly
+dynamic interaction but is harder on the developer side as there is a lot of mathematics involved.
+
+Sun Azimuth, altitude controller on a 3D Google Map https://youtu.be/FnCTCKr9UzE
+
+Solar panel annual Yield estimator: https://youtu.be/vsdt_wr0bzo
+users model their roofs on Google Maps and then the app places 3d solar panels on their roofs. Users can control the direction and intensity of the sun to get an annual yield from the solar panels
+I also have metaverse projects under development. I am willing to share them
+during the interview
+Skills: React, Three,js, Type Script, node.js,express, webpack,babel,physics
+engines,AWS
+New Skills: Etherium, blockchain, solidity, docker, Kubernetes
+------------------------------------------------------------------
+Hi
+
+This kind of svg editor can be developed usign HTML5 Canvas + fabric js.
+
+I have good experience in application development in various framework React / Redux / Angular / Vue / PHP / Laravel / Node JS /Node Canvas
+I have good experience in HTML5 Canvas, Node Canvas also for processing / generating the high quality pdf output from json.
+
+I built different canvas editors using fabric js / react / angular / js / php.
+http://kpomservices.com/CanvasToolsEditors.php
+
+Please check other online web editor applications which I developed recently.
+
+1. Invitation Card Product Designer
+http://templett.com/
+Demo : http://templett.com/design/demo/youprintem/6639
+Video: https://www.youtube.com/watch?v=maRI8v-lLtc
+
+2. graphicsfactory editor
+https://www.graphicsfactory.com/g-editor.html
+https://www.graphicsfactory.com/editor/#/designer/template/47
+
+3. Shirt Label Product Designer
+www.bernitex.de/designer/
+
+4. Logo product desinger.
+Video: https://www.youtube.com/watch?v=666ilGUbWps
+
+5.Flyer Editor Application designed for connectsouthwest.com
+http://kpomservices.com/HTML5_Design_Customize_Admin.png
+
+6. Design Editor Application designed for m`ockaroon.com
+http://kpomservices.com/HTML5_React_Editor.png
+
+7. editor tool integration in react js framework
+https://dhiway.com/ (canvas + fabric js based certificate generator tool)
+
+8, editor tool integration in angular js framework
+https://siteauditpro.com/ (canvas + fabric js based issue annotator tool))
+
+My blogs related to canvas.
+https://www.codementor.io/@kpomservices/design-editor-react-js-fabric-js-mn59yc7fu
+https://www.codementor.io/@kpomservices/how-and-why-i-built-tool-to-convert-psd-to-canvas-to-pdf-svg-png-jpeg-json-ykakhws33
+https://www.codementor.io/@kpomservices/automated-tool-to-convert-psd-to-canvas-to-png-and-json-15tessou56
+https://www.codementor.io/@kpomservices/html5-canvas-to-pdf-mgq5c52s1
+https://www.codementor.io/@kpomservices/canvas-json-to-svg-using-node-zlkcvsnwo
+
+Thanks
+Frederic Anand
+------------------------------------------------------------------
+
+------------------------------------------------------------------
+
+------------------------------------------------------------------
+
+------------------------------------------------------------------

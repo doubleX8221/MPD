@@ -1,0 +1,19 @@
+Full Name: Kauê Alessandro da Silva de Deus
+
+Date of birth: 03/06/1997
+CPF: 46825216830
+
+Address: rua Rubens Gonçalves de Freitas 193
+City: Praia Grande
+Postal code: 11703130
+
+Phone number: 13 98112-3930
+Email: kauedasilva616@gmail.com
+password: nadadeles1
+linkedin pass: nadadeles2
+
+
+card number: 5502 0912 6154 8391
+exp_date: 08/32
+csv: 858
+

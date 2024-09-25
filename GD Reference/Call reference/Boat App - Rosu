@@ -1,0 +1,31 @@
+Certainly! Here’s a revised version of your app modification requirements:
+
+---
+
+### App Modification Requirements for XAPK File
+
+To modify the app to include an autopilot feature for boats with three distinct modes: Lite, Basic, and Pro.
+
+Modes:
+
+1. **Lite Mode:**
+   - Live tracking of the boat’s location.
+   - Ability to save waypoints for future navigation.
+
+2. **Basic Mode:**
+   - All features from Lite Mode.
+   - Additional capability to control the boat directly from the phone via Bluetooth.
+
+3. **Pro Mode:**
+   - All features from Basic Mode.
+   - Integrates an ESP32-based device (Arduino programmed) installed on the boat.
+   - Enables autonomous boat control, where the device manages navigation and movement independently.
+
+Additional Information:
+
+- The ESP32 device will require proper installation on the boat.
+- The device will communicate with the app via Bluetooth.
+
+---
+
+Would you like to add any specific functionality to each mode or are there any particular technical details you’d like to include?

@@ -1,0 +1,82 @@
+
+Hello
+I am excited to submit my proposal for the position of a full-stack web developer. With my expertise in HTML, CSS, JavaScript, PHP, API integration, and extensive experience in developing web applications using WordPress, React, Angular, ROR, Django, .NET, I am confident in my ability to contribute to your long-term project.
+And I am very familiar with payment api(stripe), web hosting(godaddy, digitalocean, aws, azure, whmcs, cpanel) and Rest api/scss.
+
+Skills include:
+Proficiency in coding languages such as HTML, CSS, JavaScript, and PHP
+Knowledge of web development frameworks like React, Angular, and Vue.js, just to name a few
+Understanding of server-side technologies like Node.js, Ruby on Rails, or Django
+Experience with version control systems such as Git
+Familiarity with website optimization techniques, such as caching and minification
+Knowledge of responsive design and mobile-first development
+Ability to write clean, well-documented, and maintainable code
+Strong problem-solving and analytical skills
+Attention to detail and the ability to thoroughly test and debug code
+Understanding of web security principles and best practices
+Experience with database management systems such as MySQL, PostgreSQL, or MongoDB
+Familiarity with API design and integration
+Creativity and a passion for building engaging and user-friendly web applications.
+
+Beyond my technical abilities, I am very honest. I have been in your shoes before as an entrepreneur and product builder. I want you to succeed.
+As a next step I’d like to get on a call to learn more.
+
+Thanks for your consideration.
+
+
+
+Dear Hiring Manager,
+
+I am writing to apply for the full stack web developer position for your long-term project. I am confident that my expertise in HTML, CSS, JavaScript, PHP, API integration and experience in developing web applications using WordPress would be an excellent fit for your project.
+
+I have extensive experience in developing web applications for clients and have successfully delivered projects within the specified deadline. I have worked with clients on diverse web development projects, including those that had large volumes of dynamic content, complex multi-stage forms and systems with multiple features.
+
+My coding and problem-solving skills combined with my knowledge of the latest WordPress technologies ensures that I can deliver projects that meet client expectations and push them beyond. I also specialize in integrating APIs to existing applications. My Comprehensive testing and debugging skills ensure every release is robust and reliable.
+
+I look forward very much to discussing my candidacy with you further.
+
+Sincerely,
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////
+// Describe your recent experience with similar projects
+////////////////////////////////////////////////////////////////////////////////////////////
+
+My recent experience is with Ilmiya. Where we as a team of 3 developers, and 1 UI/UX designer helped them build their app by being their extended technical arm. The project was managed on Asana and Jira. The project manager would take daily standup calls where each one would provide an update. We use to have a big meeting on Mondays to decide weekly goals and deadlines. We followed the Agile model for design and development. Also, there used to be weekly demos on Fridays to showcase completed modules.
+
+Different technologies we used were PHP, React, Node, Python and some other frameworks. We followed microarchitecture as in there were more than 30 Repositories which were maintained. Repos were differentiated based on functionalities and their usage. For the front end, Google App engine was used and for the back end, google cloud run services were used. Databases were hosted on AWS because of pricing issues at Google. A combination of PGSQL and Mongodb was used. For Authentication combination of AWS Cognito and Auth0 was used. For payment Gateway Stripe was used. Deployments were made using Google's CI/CD service. We had multiple environments for staging, development and production.
+
+Like most of the projects sometimes there used to be changes after design approval and implementation which was expected most of the time. Overall it was a good experience. I got to learn a lot.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

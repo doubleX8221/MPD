@@ -1,0 +1,243 @@
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+Hi, Reading the realistic idea, it was nice to see an entrepreneur well-versed in game ecosystems like you.
+
+I analyzed the whole game info and detailed unique requirements and knew you want to build a Metaverse RTS game similar to a casino betting game, and I would like to join your project sincerely as a senior WebGL engineer.
+
+Before I ever experienced several online Metaverse game platforms such as Decentraland, Sandbox, and Webaverse, it was precious knowledgeable assets that I could analyze the whole Metaverse game ecosystem. But I felt they have some inconvenience for the players to play it. e.g. in the reward system, game option, UI, sync, and so on.
+
+I believe you have the best track to success in your idea and I would like to share technical parts with you.
+
+My main expertise includes WebGL, three.js, ReactJS, Unity, Unreal Engine, TypeScript, WebSocket, YJS, NFT, DApps, Tokenomics, and Defi.
+
+Look forward to working with you sincerely.
+Thank you for your time.
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+Hi, I'm an experienced metaverse developer with a lot of knowledge about basic concepts such as three.js, Decentraland, sandbox, typescript, canon.js, and terminology.
+
+As a passionate and creative developer, I strive to understand and implement customer requirements with clear communication skills and have grown my Metaverse career by joining several Metaverse development teams.
+
+So, I am good at shaders, for instance, MultiMeshInstance, animation, graphics, smart contract analysis, overall dApp architecture design, and monetization.
+
+And some experience with XR during Unity app development will help take this project into the real virtual world.
+
+I love what I do and love to help others reach their goals. I look forward to discussing your project further. Thank you for your time.
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+Hi, I just read the job description carefully, and it caught out my mind. I'm not only a professional 3D engineer well versed in Unity, UE4, and UE5 but also a senior Full Stack engineer well versed in Golang, and AngularJS.
+
+The important thing is that I worked on a Webaverse project before coming to Upwork and have stunned experience in Metaverse areas such as NFT, model optimization, mirror optimization, render targeting, z-targeting, WebSocket, y.js, several model loaders, VRM model handling, crypto avatar generation, etc.
+
+If you message me, I'm willing to share my stunning experience with you in the Metaverse area.
+
+Look forward to getting hired ASAP.
+Sincerely,
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+Hi, As a Blockchain developer, I specialize in Metaverse, NFT marketplace, and 3D game development. I am familiar with Rust, Solidity, Web3.js, Web3-Solana, C#, Unity, C++, Unreal Engine, React.js, Next.js, Node.js, Nest.js, Netlify, Heroku, and AWS. I have rich experience with Solana, Ethereum, and Fantom networks.
+
+The main thing I focus on when working with my clients is communication. This is the basis of all healthy and successful business relationships. I can have a 100% success track record with my clients and take into consideration their time when performing any job.
+
+I would like the opportunity for an interview to make your vision a reality on the internet.
+
+Thank you for your time.
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+Hi, I'm interested in collaborating with you to develop the Metaverse platform in UE5, as I have rich experience in UE game development.
+
+Also, I'm in a team that is building our Metaverse: The Nemo Land Kingdom can be described as a place where users can interact, connect, and exchange information. Besides transferring belongings, users may also trade items in this realm.
+
+Please acknowledge some of our Unreal projects here.
+
+1. Third-Person Shooter Game in Unreal (currently in the developing phase): https://drive.google.com/file/d/1hphzmmwmUabQUH4owvZyzHqMjATh3xgy/view?usp=sharing
+
+2. Multiplayer Unreal Project which is in development, YouTube video link: https://youtu.be/FVRYp5ofUIo  (We have implemented Advanced VR Framework and Streamed the game via Unreal’s pixel streaming service for browser support.)
+
+Have a look at our games' portfolio.
+https://www.chicmic.in/game-portfolio/
+
+Queries:
+1. What will be the concept for the metaverse platform (Shopping mall, real estate, city, etc.)?
+2. Could you please share the references for the 3D assets to be used in this project?
+3. Is there any reference project in your mind?
+
+Kindly suggest a suitable time for discussion to finalize the scope of work, and accordingly, we will provide you with our input.
+
+We have a team of Graphic and UI designers, UE/Unity developers, QA, and Project Managers, who can handle the full development life cycle of the project including:
+➤ UI/UX design, 2D/3D Art, Animation. https://www.chicmic.in/design-portfolio/
+➤ Both front-end & back-end development,
+➤ API creation and integration
+➤ Testing/bug fixing, Launch, and Maintenance support.
+
+Looking forward to hearing from you.
+Best Regards,
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+Hi, I would like to take this opportunity to develop an innovative UE5 game and also integrate Metaverse infrastructure to grow your project fast. I'm ready to crack a technical interview and prove you with relevant deliveries.
+
+Here are my projects to prove my experience.
+
+Games developed on Unreal Engine:
+https://metahorse.mobiloitte.org/ (Similar to Zed Run)
+https://racing-game.mobiloitte.org/ (Similar to Zed run, But with cars)
+http://182.74.213.166/PROJECTS/crypto-nft-based-website-game-development-21083893-html/index.html (Battle to Earn Game Project)
+https://webgl-game.mobiloitte.org/ (NFT Car Racing Game-With Metaverse Launch in Phase II)
+https://safesquid.mobiloitte.org/ (P2E Game)
+https://aicha-nft.mobiloitte.org/ (Doge dash Like Game)
+https://play.pokemonshowdown.com/
+https://cryptocasino.mobiloitte.org/home
+https://cryptoholdemnft.com/
+https://play.google.com/store/apps/details?id=com.gamenly.flumprun (Flump)
+https://play.google.com/store/apps/details?id=com.bsgames.fighter (Spirit Implosion Kombat)
+
+Metaverse :
+https://drive.google.com/file/d/1YC4bn0qwP3HnbW7OqbpX6mh_an0sujQt/view?usp=sharing
+https://drive.google.com/file/d/1pSYavr_ABqIaxwld5rPzm0F-8sNcfiFT/view?usp=sharing
+https://drive.google.com/file/d/1CVbBAsorn24xcPkcR1woO4gAPkFDNZUd/view?usp=sharing
+https://metaverse.mobiloitte.com/pune-office/ (Our Pune Office)
+https://drive.google.com/file/d/1vwv-j_J6JAZXkHTt2fbnGkZMOTjQ_7V6/view?usp=sharing (Our Delhi office)
+https://drive.google.com/file/d/1K5cnEnBEKcyxLTapaxYcxQlm8fAqvaO6/view?usp=sharing (Ongoing Shopping Mall work with-Metaverse, VR/AR Visuals)
+
+I'd like to transform your dream Metaverse projects into reality with our premium-quality Metaverse development services. We make use of top-notch tools and ultra-modern technologies to cater to the varied needs of different projects in the best possible manner. I offer customized solutions as per the client's needs.
+
+✅ My Queries:
+
+- Do you have a requirement doc for this project?
+- Which blockchain has to be used for this platform?
+- How soon can we start?
+- What's your availability to discuss this project?
+
+✅ Tech Stack Expertise:
+
+- Years of experience with Unity3D, Unreal Engine 4 and 5, Flash, and Mobile (Android & iOS)
+- 3D modeling, texturing, and animation using the most up-to-date technologies and workflows. Luxology MODO, ZBrush, Substance Designer, Substance Painter
+- 2D game art: Pixel Art, Vector Graphics with UI/UX Design
+- VR (Virtual Reality) Development: Own an Oculus, GearVR, HTC Vive, Leap Motion & Gear VR for virtual reality development
+- Environment Design, Level Design, and Game Monetization
+
+✅ Key features that I offer you:
+
+- Interactive experience
+- Decentralization
+- P2P interactions
+- Tokenization
+- Wallet integration
+- Multilayer security
+- Secured storage
+- Interoperability
+
+✅ My other recent ongoing Metaverse project
+
+- A metaverse will divide its space into different areas, including plots of free land
+- Users can easily purchase and use it for a variety of purposes
+- This land is not only purchasable but also programmable, and it’s bought, sold, or exchanged in the form of NFT in exchange for cryptocurrency and even fiat
+- Spaces are valuable as users can create a number of experiences, play games, socialize, host events, and more
+- As they are NFTs, the ownership over the land and the digital assets in it can be easily proven
+- All transactions involving metaverse land are equally public records.
+- Users can normally purchase a plot of metaverse land through the platform’s marketplace - or opt for a third-party NFT platform such as Open Sea and Rarible.
+
+✅ Some reasons to select:
+
+- 12+ years of rich experience
+- Keep up with the latest UI/UX, design patterns
+- Always create secure & scalable applications
+- Performance-oriented software development
+- Maintain OWASP standards for coding
+- Structured project management
+- Engaging, well-informed client communication
+
+If you find my proposal interesting, let me know your availability on the Upwork message board. I will wait for your correspondence.
+
+Regards,
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+Hi, Enticed by your Metaverse-like project, I'm ready to work for you! I have over 5 years of experience in Blockchain (Ethereum, Solana), Smart contracts development, NFT (ERC-721 and ERC-1155), minting, stacking, and cryptography. Furthermore, I know Solidity, Rust, web3, and other related technologies, so can get to work ASAP and can't wait to know your project better via chat.
+
+To not be unsubstantiated, please take a look at our relevant past projects:
+https://www.socol.io – This is the blockchain Defi system, that uses smart contracts / NFTs to build reliable bridges between web2 social channels and trendy web3 ones.
+https://www.scoby.social – audio-video mobile app (links to iOS and Android apps are on the website), which allows streaming content, collecting NFTs and creating new ones, talking with the community of like-minded people, putting social tokens, NFTs, and DAOs on the Solana blockchain (uses Web3)
+
+To remove all your doubts about my credibility, I suggest discussing your project face-to-face. Just drop me a line, and I’ll be glad to explain how we can achieve your goals.
+
+Thank you for your time.
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+Hi, I'm an expert in creating Metaverse, Crypto space, and NFT Development solutions end to end from Scratch, already working on several P2E Games with Blockchain, P2P games, Decentraland, Spatial.io like Metaverse Platform.
+
+Familiar with Various Blockchain like BSC, XINFIN, POLYGON, ETH, SOLANA, OPENSEA, WAX, Coinbase ETC.
+
+Decentraland, like Metaverse:
+
+- Virtual Land Buy & Sell
+- Marketplace
+- Estate Token
+- currency exchange
+- Withdrawal
+- Custom Avatar
+- P2E Game
+- Shop etc
+- Voice Chat
+- Video Stream
+- Text Chat
+- 3D Experience
+- Web3.0 library
+- Wallet Integration
+- Blockchain/ NFT
+- Accredited Audit
+
+Please check the below solution, which is very similar to the metaverse concept we work on.
+
+- DZI Metaverse (blockchain-based NFT gaming metaverse for virtual real estate based on real-world plots): https://dziearth.io/
+- SAM Metaverse Sports: https://www.sam-arena.com/
+- Tankpad (P2E Game): https://tankpad.io/
+
+I'd like to know more details. I believe we should connect once to discuss the project scope and details in depth to make sure that
+our understanding is on the same track.
+
+Finally, I work on Agile Methodology and am highly interested to build and open a lot more opportunities together and potent enough to make them live by hand-in-hand collaboration with you.
+
+Look forward to speaking with you
+
+Regards,
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+Hi, After reading your Job post, I'm in passion to work with you.
+
+I have been through your job posting for the BLOCKCHAIN DEVELOPER position for developing the GENESIS METAVERSE GAME. I am confident that I have the skills and experience that you are looking for, and I believe that I would be a valuable asset to your team.
+
+For the PAST FIVE YEARS, I've been working in the blockchain industry, and during that time I have gained a deep understanding of the technology and the various applications, it can be used for.
+
+PLEASE HAVE A LOOK AT THE WORK DONE BY ME ON BLOCKCHAIN PROJECTS:
+https://www.tradingtent.io/
+https://bigtime.gg/
+https://thesovereign.co/
+https://millenabots.xyz/
+https://rywave.io/
+
+I am well-versed in the use of blockchain technology for both public and private blockchains, and I have experience with a variety of programming languages such as Java, Python, and Solidity.
+
+I am also familiar with the various challenges that come with developing blockchain applications, and I have a track record of successfully overcoming these challenges.
+
+Finally, I am eager to discuss this opportunity further with you and answer any questions you may have.
+
+Please contact me at your earliest convenience. Thank you for your time and consideration.
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@

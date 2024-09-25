@@ -1,0 +1,33 @@
+Hello. I have extensive experience in creating complex projects from scratch including projects with complex 3D animations and 3D Models.
+
+-https://chartogne-taillet.com/
+-https://webgi-jewelry.vercel.app/
+-https://www.morroccos.com/
+
+I've worked for the past five years almost exclusively with webGL/three.js. Jobs have included 3d model viewers, product configurators, bone-based animation, particle effects, procedural mesh generation, multi-layer 2D sprite environments, and motion capture/motion tracking for armature animation.
+
+To expound upon the v.r. experience: While working on staff at the lab I was tasked with developing software for an accelerometer-based glove apparatus, learned about VR theory and methods of application, worked with a unity-like engine, and modeled in 3DStudioMax and Maya. I was also involved in the various upkeep and troubleshooting needs of a VR-capable network of nodes and projectors.
+
+Build simple backend services to facilitate group chat possible with following api's:
+Users
+-Manage users
+-Authentication api's
+-Test
+Groups
+-Manage group messages
+-likes , etc
+-Tests
+Requirements
+-REST API'S
+-Use MS SQL database
+-use c# entity framework for ORM
+
+Using c# entity framework, MS DB, RESTful API's, build simple backend services to facilitate multi chat possible with following api's:
+Users
+-Manage users
+-Authentication api's
+-Test
+Groups
+-Manage group messages
+-likes, etc
+-Tests

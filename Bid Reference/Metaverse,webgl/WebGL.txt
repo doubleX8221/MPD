@@ -1,0 +1,218 @@
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+%URL
+
+https://hennessy-house-of-moves.hello-jury.com/
+https://www.christmasnftree.org/
+https://buttersand.com/
+https://bit.ly/3wHrwrv
+https://bit.ly/38PsKJ8
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+%Term
+
+Three.js
+Babylon.js
+GreenSock
+GSAP
+Konva.js
+Cannon.js
+Ammo.js
+Blender
+Unity
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+%Multiplayer Game
+
+Hi, As a proven WebGL developer, I experienced several times Node.js, WebRTC, WebSocket, and React all during several online game development.
+
+It was very difficult to part to keep smooth sync in P2P game development, but I was able to use the y.js effectively to solve that. Every game project required a store to save all info on the game objects, the MongoDB and Firebase were convenient to integrate the game front-end and back-end.
+
+You don't need to worry about security since I pay attention to the details and always use the ESLint. I'm ready to start work immediately after getting a detailed description or document.
+
+Please let me know if you require any additional details from my end. I will be happy to share it with you. Thank you for your time.
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+%Common
+
+Hi, I can surely assist you with your job as I have all the required expertise.
+
+I would like to join your project as a fully experienced software engineer familiar with 3D rendering, Three.js, 3D art generation, web3.js, and ERC721 (Non-Fungible Token).
+
+- Why you should hire me
+✓ Participated in numerous front-end projects as well as UI/UX engineering for these products.
+✓ Refactored existing codebase to reduce technical debt, and code smell and improve overall code quality.
+✓ Developed projects of all sizes, from small static page, and single page applications to server-side rendered web applications using React.js, Vue.js, and Next.js.
+✓ Used extensible API developed using Node.js, MongoDB, and Redis on AWS infrastructure.
+✓ Developed several NFT projects using OpenSea, Moralis, Alchemy, and NFT-supported platforms.
+
+- My Expertise
+✓ Design, develop and improve Interactive 3D Website, Panorama Viewer, 2D/3D Drawing Tool, IFC Viewer, Configurator using Three.js.
+✓ Knowledge of Unity and UE4/5
+✓ Ability to use JavaScript, TypeScript, React.js, and Vue.js
+✓ Knowledge of the entire process of the NFT market.
+✓ Ability to adapt to the use of multiple NFT-related platforms.
+
+I ensure you of quality work with proactive and strategic thinking, and always prioritized my client's requirements. I look forward to discussing more detail.
+
+Thank you for your time.
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+%Common
+
+Hi, I work almost exclusively in WebGL during gorgeous Web app development for over 5 years. My previous works include Interactive 3D Website, Panorama Viewer, 2D/3D Drawing Tool, IFC Viewer, and Configurator.
+Especially, I'm fond of 3D game development and have almost 5 years of experience in the following stack.
+
+✓ Language - C#, JavaScript, Typescript, GLSL, HTML, CSS.
+✓ Library - React.js, Vue.js, Three.js, Babylon.js, Cannon.js, Ammo.js, GreenSock, GSAP, Tailwind CSS, MongoDB, GraphQL, MySQL, Laravel.
+✓ Tool - Unity 3D, Blender.
+✓ Technique - Culling, Instancing, Multi Mesh Instancing even using GLSL, Render Pass, Post Effects, and Particle Systems.
+
+Please let me know if you require any additional details from my end. I will be happy to share it with you. Thank you.
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+%Common
+
+Hi, As a passionate and creative developer, I have developed numerous websites and game apps using WebGL.
+I build or customize the themes and plugins you need, and fix important issues on-the-fly. And as a full-time freelancer, I can meet deadlines, maintain quality and work in your time zone.
+
+Please review my expertise, which provides details of these projects and examples of my skills in.
+
+✓ Participated in numerous front-end projects as well as UI/UX engineering for these products.
+✓ Refactored existing codebase to reduce technical debt, and code smell and improve overall code quality.
+✓ Developed projects of all sizes, from small static page, and single page applications to server-side rendered web applications using React.js, Vue.js, and Next.js.
+✓ Used extensible API developed using Node.js, MongoDB, and Redis on AWS infrastructure.
+✓ Developed several NFT projects using OpenSea, Moralis, Alchemy, and NFT-supported platforms.
+✓ Design, develop and improve Interactive 3D Website, Panorama Viewer, 2D/3D Drawing Tool, IFC Viewer, Configurator using Three.js.
+✓ Knowledge of Unity and UE4/5
+✓ Ability to use JavaScript, TypeScript, React.js, and Vue.js
+✓ Knowledge of the entire process of the NFT market.
+✓ Ability to adapt to the use of multiple NFT-related platforms.
+
+If you take a look at my technical skills and feel that I could help you, I will offer you the best price and service. You will get all the expected and perfect stuff like great professional service, and I get a bit more exposure. If the above offer sounds like something you would be interested in, I'd love to hear from you.
+
+Thank you for your time.
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+%Draco
+
+Hi, I'm well versed in not only three.js but also C++.
+I ever saw and used that Draco git repo before, there were so many bugs when integrating with another web app, but I managed to do it. Unfortunately, I lost the updated Draco local git repo because my Hard disk was destroyed a few days ago.
+But I'm willing to fix bugs and integrate Draco with your current app completely if you hire me.
+Let me know if you're interested.
+Thank you for your time.
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+%Modeling
+
+Hi, I have expertise in 3D Realistic Animation, Modeling, Rendering, Blender, Animation, and Visualization with over 5 years of hands-on experience.
+
+✦ MY WORK ✦
+=============
+
+➟ 3D Mobile Legends: Bang Bang 3D Characters Animation: http://u.pc.cd/4FM
+
+➟ Loop animation: http://u.pc.cd/bP8ctalK
+
+➟3D Realistic Game Environment: http://u.pc.cd/NPY7
+
+➟ Game Trailer
+https://www.youtube.com/watch?v=c4J67TJrxD4
+https://www.youtube.com/watch?v=q9X1U936PKA
+
+➟ 3D Props Animation: http://u.pc.cd/PXYotalK
+
+➟ 3D Disney Cartoon Characters Animation: http://u.pc.cd/PuXotalK
+
+➟ 3D IT Company intro animation: https://www.youtube.com/watch?v=IrHRmfzlSIg&t
+
+➟ 3D Kids Story Cartoon: https://www.dropbox.com/s/1gb2i9x2ly3igzz/Kids_story.mp4?dl=0
+
+➟ NFT Characters:- http://u.pc.cd/hwFrtalK
+
+➟3D Characters: http://u.pc.cd/9O6rtalK
+
+➟3D Animals: http://u.pc.cd/Bk2rtalK
+
+➟3D Ship for Game: http://u.pc.cd/6ehctalK
+
+✨ 3D Modeling
+http://u.pc.cd/fngctalK
+
+✨ 3D Animation:-
+http://u.pc.cd/Fj6italK
+
+Adobe Creative Suite, Illustrator, InDesign, Photoshop, After Effects, Premiere Pro, Blender 3D, and Autodesk Maya are among the tools of which I have extensive knowledge.
+
+Could you please start a conversation and let me know what else you need?
+
+Note: “I’m giving you the Estimated time and budget after discussing them with you in detail”.
+
+Thank you.
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+%Animation %Modeling
+
+Hi, I specialize in UI/UX, Website design including all the specialties that you have mentioned in your job description, and can assist you with your projects. Not only that, but I have been working together for various clients, designing or re-designing websites, for quite a while now. I've designed and developed many websites and I have done Custom CSS, SVG, GSAP, and three.js animation.
+
+Please have a look at the following website, where you can see the animation that I've done.
+
+https://futuritybioventures.com/ (3D scroll animation) (three.js)
+https://www.squadeasy.com/en/ (3D scroll animation) (GSAP)
+https://cowboy.com/ (3D animation) (three.js)
+http://corva.ai/ (2D Isos animation) (JSON, SVG)
+
+Also for the modeling, I can help you with it as my Partner is a professional 3D artist and has 10 years of experience in the industry. Here's his portfolio to review:
+
+https://drive.google.com/drive/folders/1hAZ40IOGSPVQg7nMcxzvAyseVDWkX-1-?usp=sharing
+
+https://drive.google.com/drive/folders/16pIkPgvR90JyM1_YxcVOsXzigG--NhAP?usp=sharing
+
+https://drive.google.com/drive/folders/1MOuhDJbl7KTRjqwTuW1W97hYBkXTfg8G?usp=sharing
+
+I am aware of all the precautions to be taken because of the sensitivity of the project, and I will definitely result in a perfect choice for this project.
+
+Hoping to hear from you in the nearest future.
+Thank you for your time.
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+%Animation %Modeling
+
+Hi, I specialize in UI/UX, Website design including all the specialties that you have mentioned in your job description, and can assist you with your projects.
+
+Not only that, but I have been working together for various clients, designing or re-designing websites, for quite a while now.
+
+I've designed and developed many websites and I have done Custom CSS, SVG, GSAP, and three.js animation.
+
+Also for the modeling, I can help you with it as my Partner is a professional 3D artist and has 10 years of experience in the industry.
+
+I am aware of all the precautions to be taken because of the sensitivity of the project, and I will definitely result in a perfect choice for this project.
+
+Hoping to hear from you in the nearest future.
+
+Thank you for your time.
+
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@

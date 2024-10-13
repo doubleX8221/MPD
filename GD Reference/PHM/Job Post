@@ -1,0 +1,69 @@
+Job Title: MERN & Smart Contract Developer
+
+Location: Remote
+Type: Full-time
+Budget: $1500~$2000 a week
+Company: Streym LTD
+Location: England
+Websites: https://streym.com
+
+About Us:  
+We are an innovative company focused on revolutionizing the eCommerce industry through blockchain technology. We are currently developing a blockchain-based warranty system that leverages NFTs to provide seamless warranty management for retailers and customers.
+
+Job Description:  
+We are looking for a skilled MERN & Smart Contract Developer to join our team. You will be responsible for enhancing our existing application and implementing smart contracts based on specific business logic. 
+
+Here is our project:
+https://bitbucket.org/streym-ltd/nft-warranty-system/src/main/
+
+Responsibilities:
+
+1. UI Enhancement:
+   - Update the current user interface according to the new design outlined in our Figma prototype: [Figma Design](https://www.figma.com/design/0UNPsOjgiQorLRFXkZktVv/E-commerce-Grid).
+
+2. Develop smart contracts implementing the following logic:
+   1) Retailer Functions:
+     - Allow retailers to purchase NFT warranty cards using Metamask upon receiving an order request.
+     - Ensure gas fees are charged to the retailer, not the customer.
+     - Enable retailers to set warranty information at the time of NFT purchase.
+     - Utilize the `safeTransferFrom()` function of ERC721 tokens to send warranty cards to customers.
+     - Generate and send a unique token ID to customers via email after purchase.
+
+   2) Customer Functions:
+     - Allow customers to verify ownership by entering their unique token ID received via email, using the `ownerOf` function for ERC721 soulbound tokens.
+     - Display warranty period and other relevant information on the verification page.
+     - Implement a decay mechanism for NFTs, ensuring they stop functioning after the warranty period or after redemption.
+
+Requirements:
+- Proficiency in MERN stack (MongoDB, Express.js, React.js, Node.js).
+- Strong experience with smart contract development on Ethereum (Solidity).
+- Familiarity with ERC721 standards and NFT functionality.
+- Experience with Metamask and integrating blockchain solutions into web applications.
+- Understanding of email services for sending token IDs.
+- Strong problem-solving skills and attention to detail.
+
+What We Offer:
+- Competitive salary and benefits.
+- Flexible working hours and remote work options.
+- Opportunities for professional growth and development.
+- A collaborative and innovative work environment.
+
+How to Apply:  
+If you are excited about the intersection of blockchain technology and eCommerce and want to be part of our mission, please send your resume and a brief cover letter via DM.
+
+
+------------------------------ Chat content ----------------------------------------------
+
+- If candidate contact your via message, then ask him latest resume like this:
+"Thanks for your interest, Could you share your latest resume?"
+
+- And then check if they try to check our current project on their locally like this:
+"Did you try to check our current project via bitbucket? If not please clone and check it on your locally. After that send me screenshot result and let me know your exact timeline for this project ehancement."
+
+- Also they can ask your budget of this project, then say this:
+"Budget is $4500~$6000 a month, Basic timeline is from 3 to 6 months."
+
+- Lastly finish chat like this:
+"Thanks for your sharing so much information, we will check your resume and other infomration carefully, then will come back you."
+
+- And then send their resume and screeshot.

